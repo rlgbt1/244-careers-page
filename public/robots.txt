@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://careers.244club.com/sitemap.xml

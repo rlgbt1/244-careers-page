@@ -1,0 +1,17 @@
+{
+  "retrieved": "2026-10-05",
+  "assets": [
+    {
+      "file": "tesco.svg",
+      "source": "https://www.tescoplc.com/media/svnf5ixc/tesco-logo.svg",
+      "page": "https://www.tescoplc.com/",
+      "note": "Official SVG wordmark replaces 16px favicon."
+    },
+    {
+      "file": "boeing-wordmark.png",
+      "source": "https://www.boeing.com/content/dam/boeing/v2/common/boeing-logo-blue.png",
+      "page": "https://www.boeing.com/",
+      "note": "Official 300x110 blue wordmark, rendered at 150px or smaller."
+    }
+  ]
+}

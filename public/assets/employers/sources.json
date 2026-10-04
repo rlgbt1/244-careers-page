@@ -1,0 +1,82 @@
+{
+  "jpmorgan": {
+    "file": "jpmorgan.svg",
+    "source": "https://www.jpmorgan.com/content/dam/logos-global/logo-jpm-brown.svg"
+  },
+  "deutsche-bank": {
+    "file": "deutsche-bank.png",
+    "source": "https://www.db.com/application/project/images/logos/identifier_RETINA.png"
+  },
+  "citi": {
+    "file": "citi.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Citi_logo_March_2023.svg"
+  },
+  "goldman-sachs": {
+    "file": "goldman-sachs.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Goldman_Sachs_logo.svg"
+  },
+  "ubs": {
+    "file": "ubs.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/en/a/ab/UBS_Logo.svg"
+  },
+  "barclays": {
+    "file": "barclays.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/en/7/7e/Barclays_logo.svg"
+  },
+  "amazon": {
+    "file": "amazon.png",
+    "source": "https://www.google.com/s2/favicons?domain=amazon.jobs&sz=128"
+  },
+  "apple": {
+    "file": "apple.png",
+    "source": "https://www.google.com/s2/favicons?domain=apple.com&sz=128"
+  },
+  "figma": {
+    "file": "figma.png",
+    "source": "https://www.google.com/s2/favicons?domain=figma.com&sz=128"
+  },
+  "databricks": {
+    "file": "databricks.png",
+    "source": "https://www.google.com/s2/favicons?domain=databricks.com&sz=128"
+  },
+  "deloitte": {
+    "file": "deloitte.png",
+    "source": "https://www.google.com/s2/favicons?domain=deloitte.com&sz=128"
+  },
+  "pwc": {
+    "file": "pwc.png",
+    "source": "https://www.google.com/s2/favicons?domain=pwc.co.uk&sz=128"
+  },
+  "kpmg": {
+    "file": "kpmg.svg",
+    "source": "https://kpmg.com/content/experience-fragments/kpmgpublic/uk/en/site/header/master/_jcr_content/root/header_v2_copy/logo.coreimg.svg/1787921997966/logo.svg"
+  },
+  "shell": {
+    "file": "shell.png",
+    "source": "https://www.google.com/s2/favicons?domain=shell.com&sz=128"
+  },
+  "babcock": {
+    "file": "babcock.png",
+    "source": "https://www.google.com/s2/favicons?domain=babcockinternational.com&sz=128"
+  },
+  "boeing": {
+    "file": "boeing.png",
+    "source": "https://www.google.com/s2/favicons?domain=boeing.com&sz=128"
+  },
+  "aecom": {
+    "file": "aecom.png",
+    "source": "https://www.google.com/s2/favicons?domain=aecom.com&sz=128"
+  },
+  "tesco": {
+    "file": "tesco.png",
+    "source": "https://www.google.com/s2/favicons?domain=tescoplc.com&sz=128"
+  },
+  "bain": {
+    "file": "bain.png",
+    "source": "https://www.google.com/s2/favicons?domain=bain.com&sz=128"
+  },
+  "palantir": {
+    "file": "palantir.png",
+    "source": "https://www.google.com/s2/favicons?domain=palantir.com&sz=128"
+  }
+}
