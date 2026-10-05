@@ -71,7 +71,7 @@
 .careers-resources .tk-resources{background:#eef1e8}
 .tk-page .tk-logo{height:64px}
 .tk-page .tk-logo:not(.tk-logo-with-name) img{max-height:52px;width:155px;height:52px;object-fit:contain}
-@media(max-width:1150px){.careers-nav-content ul{gap:12px}.careers-nav-content{gap:12px}.careers-brand small{display:none}.careers-nav{gap:14px}}
+@media(max-width:1150px){.careers-nav-content ul{gap:12px}.careers-nav-content{gap:12px}.careers-nav{gap:14px}}
 @media(max-width:960px){
  .careers-nav{width:calc(100% - 32px);height:80px}
  .tk-page{padding-top:80px}
@@ -86,3 +86,140 @@
 }
 @media(max-width:600px){.careers-destination-grid{grid-template-columns:1fr}.careers-destination{padding:24px}.careers-destination>span{margin-bottom:20px}.careers-brand img{width:64px;height:64px}.careers-brand>span{font-size:18px}.careers-footer nav{display:grid;grid-template-columns:1fr 1fr}}
 @media(prefers-reduced-motion:reduce){.careers-destination{transition:none}}
+
+/* Reading and comparison tools: compact where useful, comfortable touch controls. */
+.tk-stage-advice summary{display:none}
+.tk-stage-advice a{display:inline-flex;align-items:center;min-height:44px;color:#34572e;font-size:13px;text-decoration:underline;text-underline-offset:4px}
+.tk-sheet-compact .tk-sheet{font-size:12px;line-height:1.25;min-width:1180px}
+.tk-sheet-compact .tk-sheet-scroll{max-height:72dvh}
+.tk-sheet-compact .tk-sheet th,.tk-sheet-compact .tk-sheet td{padding:3px 8px}
+.tk-sheet-compact .tk-sheet thead th{height:34px;font-size:12px}
+.tk-sheet-compact .tk-sheet tbody th{font-size:12px;min-width:170px}
+.tk-sheet-compact .tk-sheet tbody td:nth-child(3){min-width:320px;max-width:440px}
+.tk-sheet-compact .tk-location-value{display:block;max-width:155px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tk-sheet-compact .tk-sheet-expand{font-size:17px;min-height:26px;min-width:30px;width:30px}
+.tk-sheet-compact .tk-employer-toggle,.tk-sheet-compact .tk-employer-action{min-height:28px;padding:2px 0;font-size:12px}
+.tk-sheet-compact .tk-employer-summary{gap:12px}
+.tk-sheet-compact .tk-employer-summary>div{display:flex;align-items:center;gap:12px}
+.tk-sheet-compact .tk-employer-summary strong,.tk-sheet-compact .tk-employer-summary span{font-size:12px}
+.tk-sheet-compact .tk-sheet-detail>td{padding:18px}
+.tk-sheet-compact .tk-sheet tbody th{position:sticky;left:0;z-index:1;background:#f6f8f4;box-shadow:1px 0 #bdc8bf}
+.tk-sheet-compact .tk-sheet thead th:nth-child(2){position:sticky;left:0;z-index:3}
+.tk-sheet-compact .tk-sheet .tk-employer-row th{background:#dce8dc}
+.tk-sheet-compact .tk-sheet tbody td:nth-child(3)>a{display:inline-block;padding-block:3px}
+.tk-cv-reader-section .tk-cv-reader-heading{display:flex;justify-content:space-between;align-items:center;gap:32px;margin-bottom:28px}
+.tk-cv-reader-heading>div{max-width:690px}
+.tk-cv-reader-heading h1{margin-bottom:18px}
+.tk-cv-reader-heading p:not(.tk-eyebrow){font-size:16px;color:#c5d8d2}
+.tk-cv-reader-heading .tk-cv-reader-credit{font-size:12px;margin-top:14px}
+.tk-cv-reader-heading .tk-btn{flex-shrink:0}
+.cv-page .tk-cv-reader-section{padding:48px 0 64px;min-height:0}
+.tk-reader{border:1px solid #98ada2;border-radius:8px;overflow:hidden;background:#d9dfd8;color:#233d2d}
+.tk-reader-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:8px 16px;background:#f5f6ef}
+.tk-reader-toolbar label{display:flex;align-items:center;gap:8px;font-size:13px}
+.tk-reader-toolbar select{font:inherit;font-size:16px;border:1px solid #a6b6a6;border-radius:4px;padding:6px;min-height:44px;background:white;color:#233d2d}
+.tk-reader-toolbar a{display:inline-flex;align-items:center;min-height:44px;font-size:13px;color:#244f34;text-decoration:underline;text-underline-offset:4px}
+.tk-reader-zoom{display:flex;align-items:center;gap:8px}
+.tk-reader-zoom button{min-width:44px;min-height:44px;padding:6px 10px;border:1px solid #a6b6a6;border-radius:4px;background:#fff;color:#233d2d;font:inherit;font-size:14px}
+.tk-reader-zoom button:disabled{opacity:.45;cursor:default}
+.tk-page .tk-reader-hint{font-size:12px;padding:6px 16px;margin:0;background:#eef1e8;color:#42533e}
+.tk-reader-viewport{position:relative;height:72dvh;min-height:320px;max-height:950px;overflow:auto;padding:16px;scrollbar-color:#526e5b #d9dfd8}
+.tk-reader-viewport:focus-visible{outline:3px solid #739352;outline-offset:-3px}
+.tk-reader-viewport .react-pdf__Document{width:max-content;min-width:100%}
+.tk-reader-page{margin:0 auto 20px;max-width:none;background:white;box-shadow:0 2px 8px #0002}
+.tk-reader-page canvas{display:block}
+.tk-reader-page figcaption{padding:8px 12px;font-size:12px;background:#f5f6ef;color:#334c3c}
+.tk-reader-loading{padding:32px;color:#dce9de}
+.tk-reader-viewport .react-pdf__message,.tk-reader-viewport>p{padding:24px;color:#223d2c}
+@media(pointer:coarse){
+ .tk-sheet-compact .tk-sheet-expand,.tk-sheet-compact .tk-employer-toggle,.tk-sheet-compact .tk-employer-action{min-height:44px;min-width:44px}
+ .tk-sheet-compact .tk-sheet tbody td:nth-child(3)>a{min-height:44px;display:inline-flex;align-items:center}
+}
+@media(max-width:600px){
+ .tk-page .tk-section{padding:44px 0}
+ .tk-page .tk-section-heading{margin-bottom:22px}
+ .tk-page .tk-section-heading>p{margin-top:14px;font-size:15px;line-height:1.55}
+ .careers-destination-grid{gap:10px;margin:22px 0}
+ .careers-destination{padding:16px;position:relative}
+ .careers-destination>span{font-size:11px;margin-bottom:10px}
+ .careers-destination h3{font-size:20px;margin-bottom:8px;line-height:1.2}
+ .careers-destination p{font-size:14px;line-height:1.5}
+ .tk-platform-grid-brands{grid-template-columns:1fr;gap:10px}
+ .tk-platform-grid-brands .tk-platform{display:grid;grid-template-columns:40px minmax(0,1fr);gap:4px 12px;padding:16px;min-height:0;position:relative}
+ .tk-platform-grid-brands .tk-platform-top{grid-column:1;grid-row:1/3;margin:0;display:block}
+ .tk-platform-grid-brands .tk-platform-top>svg{position:absolute;right:16px;top:18px;width:18px;height:18px}
+ .tk-platform-brand{width:40px;height:40px;padding:5px;border-radius:6px}
+ .tk-platform-brand img{width:28px;height:28px}
+ .tk-platform-grid-brands h3{grid-column:2;margin:0 24px 0 0;font-size:19px;line-height:1.25}
+ .tk-platform-grid-brands .tk-platform-category{grid-column:2;margin:0;font-size:11px;line-height:1.4}
+ .tk-platform-grid-brands .tk-platform>p:not(.tk-platform-category){grid-column:1/-1;margin:8px 0 4px;font-size:14px;line-height:1.5}
+ .tk-platform-link{grid-column:1/-1;font-size:12px;margin:4px 0 0}
+ .tk-platform-tip{gap:12px;padding:16px 0;margin-top:16px}
+ .tk-resource{padding:16px}
+ .tk-resource-top{margin-bottom:12px}
+ .tk-resource h3{font-size:19px}
+ .tk-resource>p:not(.tk-resource-provider){margin-bottom:14px;font-size:14px;line-height:1.5}
+ .process-page .tk-process-note{margin-bottom:24px}
+ .process-page .tk-stage{padding:16px;margin-bottom:24px}
+ .process-page .tk-stage h3{font-size:23px;margin-bottom:12px}
+ .process-page .tk-stage-code{margin-bottom:10px}
+ .process-page .tk-stage-translation{margin:0 0 12px;font-size:13px}
+ .process-page .tk-stage-summary{font-size:15px;line-height:1.55;margin-bottom:12px}
+ .tk-stage-advice summary{display:list-item;cursor:pointer;min-height:44px;padding:10px 0;font-size:14px;font-weight:600;color:#34572e}
+ .tk-stage-advice>div{padding-top:8px}
+ .tk-stage-advice p,.tk-stage-advice ul{font-size:14px;line-height:1.55}
+ .tk-stage-advice ul{margin:16px 0}
+ .tk-mobile-stage-visual{margin-bottom:10px}
+ .tk-restored-process .tk-route-diagram{padding:14px}
+ .tk-restored-process .tk-stage-preview{min-height:0;padding:12px 0 0}
+ .tk-restored-process .tk-demo-bars{height:80px}
+ .tk-restored-process .tk-preview-label{font-size:11px}
+ .tk-hirevue-demo{padding-top:12px}
+ .tk-hirevue-demo .tk-recruit-photo{height:160px;aspect-ratio:auto}
+ .tk-page .tk-sticky-caption{margin-top:10px;font-size:10px}
+ .tk-sheet-toolbar>div{flex-wrap:wrap;gap:8px}
+ .tk-sheet-compact .tk-employer-summary>div{display:block}
+ .tk-cv-reader-section .tk-cv-reader-heading{display:block;margin-bottom:20px}
+ .tk-cv-reader-heading .tk-btn{margin-top:16px}
+ .tk-cv-reader-heading p:not(.tk-eyebrow){font-size:14px;line-height:1.5}
+ .tk-reader-toolbar{padding:8px;gap:8px}
+ .tk-reader-toolbar>a{font-size:12px}
+ .tk-reader-toolbar label{font-size:12px}
+ .tk-reader-zoom{gap:4px}
+ .tk-reader-zoom button{padding:5px;min-width:44px}
+ .tk-reader-viewport{height:65dvh;min-height:280px;padding:16px}
+}
+
+.tk-sheet-compact .tk-sheet tbody:nth-of-type(even)>tr:not(.tk-employer-row):not(.tk-sheet-detail){background:#f0f3ef}
+.tk-sheet-compact .tk-sheet tbody:nth-of-type(even)>tr:not(.tk-employer-row)>th{background:#f0f3ef}
+
+/* One spreadsheet presentation, with a viewport-sized fallback on mobile Safari. */
+.tk-sheet-toolbar .tk-fullscreen-toggle{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:8px 12px;border:1px solid #829d87;border-radius:4px;background:#fff;text-decoration:none;white-space:nowrap}
+.tk-sheet-fullscreen,.tk-sheet-shell:fullscreen{position:fixed;inset:0;z-index:1000;width:100%;height:100dvh;max-height:none;margin:0;border:0;border-radius:0;display:flex;flex-direction:column;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);background:#fff;box-sizing:border-box}
+.tk-sheet-fullscreen .tk-sheet-toolbar,.tk-sheet-fullscreen .tk-sheet-hint,.tk-sheet-fullscreen .tk-sheet-footer{flex-shrink:0}
+.tk-sheet-fullscreen .tk-sheet-scroll{flex:1;min-height:0;max-height:none!important;overscroll-behavior:contain}
+.tk-sheet-fullscreen .tk-sheet-toolbar>div{flex-wrap:wrap;justify-content:flex-end}
+.tk-sheet-shell:fullscreen::backdrop{background:#fff}
+@media(min-width:801px){
+ .tk-cv-reader-layout{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:clamp(28px,5vw,72px);align-items:center}
+ .tk-cv-reader-section .tk-cv-reader-heading{display:block;margin:0}
+ .tk-cv-reader-heading .tk-btn{margin-top:24px}
+ .tk-cv-reader-layout>.tk-reader{width:100%;min-width:0}
+ .tk-cv-reader-layout .tk-reader-viewport{height:clamp(360px,55dvh,540px);min-height:0;max-height:540px}
+ .cv-page .tk-cv-reader-section{padding:64px 0}
+}
+@media(max-width:800px){
+ .tk-sheet-compact .tk-sheet tbody th{position:static;left:auto;box-shadow:none}
+ .tk-sheet-compact .tk-sheet thead th:nth-child(2){left:auto;z-index:2}
+ .tk-sheet-fullscreen .tk-sheet-toolbar{padding:8px 12px;gap:8px}
+ .tk-sheet-fullscreen .tk-sheet-toolbar>div{width:100%;justify-content:space-between}
+ .tk-sheet-fullscreen .tk-sheet-hint{font-size:11px;padding:6px 12px}
+ .tk-sheet-fullscreen .tk-sheet-footer{padding:8px 12px}
+ .careers-brand small{display:block;font-size:9px;letter-spacing:0;margin-top:4px}
+}
+@media(max-width:360px){
+ .careers-nav{gap:8px}
+ .careers-brand img{width:52px;height:52px}
+ .careers-brand>span{font-size:17px}
+ .careers-mobile-toggle{gap:8px}
+}

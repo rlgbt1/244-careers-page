@@ -97,14 +97,8 @@ export const employers = [
   },
   {
     "name": "AECOM",
-    "file": "aecom.png",
+    "file": "aecom.svg",
     "url": "https://aecom.com",
-    "icon": true
-  },
-  {
-    "name": "Tesco",
-    "file": "tesco.svg",
-    "url": "https://tescoplc.com",
     "icon": false
   },
   {

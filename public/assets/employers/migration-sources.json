@@ -13,5 +13,10 @@
       "page": "https://www.boeing.com/",
       "note": "Official 300x110 blue wordmark, rendered at 150px or smaller."
     }
-  ]
+  ],
+  "aecom": {
+    "file": "aecom.svg",
+    "source": "https://aecom.com/code/wp-content/plugins/aecom-components/images/aecom-logo-dark.svg",
+    "retrieved": "2026-10-05"
+  }
 }
