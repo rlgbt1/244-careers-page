@@ -1,0 +1,4112 @@
+{
+  "checked": "2026-10-06",
+  "scope": {
+    "en": "Internal research catalogue; not imported into the public tracker. Programme/intake groups, not guaranteed open vacancies or net-new jobs.",
+    "pt": "Catálogo interno de pesquisa; não importado para o tracker público. Grupos de programa/entrada, não vagas necessariamente abertas nem todas novas."
+  },
+  "summary": {
+    "previousGroups": 62,
+    "addedResearchGroups": 54,
+    "totalGroups": 116,
+    "types": {
+      "graduate": 66,
+      "summer": 36,
+      "spring": 14
+    },
+    "addedTypes": {
+      "spring": 11,
+      "summer": 20,
+      "graduate": 23
+    },
+    "employersAndProgrammeProviders": 31,
+    "platforms": 11,
+    "statuses": {
+      "employer_application_link_present": 23,
+      "employer_listing_present": 28,
+      "upcoming": 3,
+      "recruitment_campaign_confirmed": 4,
+      "programme_confirmed_deadline_unclear": 1,
+      "employer_index_listing_present": 55,
+      "employer_campaign_accepting_applications": 2
+    }
+  },
+  "opportunities": [
+    {
+      "company": "EY",
+      "programme": "Actuarial Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Birmingham",
+        "Bristol",
+        "Edinburgh",
+        "Leeds",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Leeds",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Leeds&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Analytics & AI - Deal Analytics Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Analytics+%26amp%3B+AI+-+Deal+Analytics&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Audit Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "April 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=London&LAYER5=April+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Audit Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Derry/Londonderry",
+        "Aberdeen",
+        "Birmingham",
+        "Bristol",
+        "Cambridge",
+        "Edinburgh",
+        "Glasgow",
+        "Liverpool",
+        "London",
+        "Luton",
+        "Manchester",
+        "Newcastle",
+        "Reading",
+        "Southampton"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Derry/Londonderry",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Derry%2FLondonderry&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Aberdeen",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Aberdeen&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Cambridge",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Cambridge&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Liverpool",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Liverpool&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Luton",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Luton&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Newcastle",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Newcastle&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Reading",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Reading&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Southampton",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Southampton&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/",
+        "https://ukstudents.ey.com/page/2/?paged=2"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Business Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/3/?paged=3"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Capital & Debt Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Capital+%26amp%3B+Debt+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/3/?paged=3"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Decision Modelling Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Decision+Modelling&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/4/?paged=4"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Economic Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Economic+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Extended Assurance Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Extended+Assurance&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Finance Operations Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Finance+Operations&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Financial Restructuring Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Financial+Restructuring&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Forensic Services Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Forensic+Services&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Global Compliance & Reporting Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Global+Compliance+%26amp%3B+Reporting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Infrastructure Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Bristol",
+        "Glasgow",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Operational Research Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operational+Research&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Operations Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "People Advisory Services - Integrated Workforce Mobility Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=People+Advisory+Services+-+Integrated+Workforce+Mobility&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "People Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Risk Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Derry/Londonderry",
+        "Edinburgh",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Derry/Londonderry",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Derry%2FLondonderry&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Strategy (Financial Services) Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Strategy+%28Financial+Services%29&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Strategy (Public and Private) Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Strategy+%28Public+and+Private%29&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Tax Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "April 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Belfast&LAYER5=April+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/8/?paged=8"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Tax Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Aberdeen",
+        "Birmingham",
+        "Bristol",
+        "Edinburgh",
+        "Glasgow",
+        "Leeds",
+        "London",
+        "Manchester",
+        "Reading"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Aberdeen",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Aberdeen&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Leeds",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Leeds&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Reading",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Reading&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/8/?paged=8"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "BCG",
+      "programme": "Associate Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+        }
+      ],
+      "sources": [
+        "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-18",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Applications 9 September–18 October 2026; final-year students or recent graduates with under two years of full-time experience.",
+        "pt": "Candidaturas de 9 de setembro a 18 de outubro de 2026; estudantes finalistas ou recém-graduados com menos de dois anos de experiência a tempo inteiro."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "BCG",
+      "programme": "Summer Internship 2027",
+      "kind": "summer",
+      "area": "Consulting",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+        }
+      ],
+      "sources": [
+        "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2027-01-24",
+      "status": "upcoming",
+      "notes": {
+        "en": "Not yet open: applications 1–24 January 2027; eight weeks in July/August.",
+        "pt": "Ainda não abriu: candidaturas de 1 a 24 de janeiro de 2027; oito semanas em julho/agosto."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Accenture",
+      "programme": "Consulting Graduate Programme 2027–2028",
+      "kind": "graduate",
+      "area": "Consulting",
+      "locations": [
+        "Edinburgh"
+      ],
+      "applications": [
+        {
+          "location": "Edinburgh",
+          "url": "https://accenture.pinpointhq.com/postings/33a5dab2-7cc0-464b-8b5c-93c4f2aa595b"
+        }
+      ],
+      "sources": [
+        "https://accenture.pinpointhq.com/postings/33a5dab2-7cc0-464b-8b5c-93c4f2aa595b"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official application page present; deadline not published in the reviewed material.",
+        "pt": "Página oficial de candidatura disponível; prazo não publicado no material consultado."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Savills",
+      "programme": "Graduate Scheme 2027",
+      "kind": "graduate",
+      "area": "Real estate",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://www.savills.co.uk/contact-us/careers/future-talent-careers/graduates/current-graduate-vacancies.aspx"
+        }
+      ],
+      "sources": [
+        "https://www.savills.co.uk/contact-us/careers/future-talent-careers/graduates/current-graduate-vacancies.aspx"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-19",
+      "status": "recruitment_campaign_confirmed",
+      "notes": {
+        "en": "Verified recruitment campaign, not a single vacancy; starts September 2027. May close early. Select the individual office and role.",
+        "pt": "Campanha de recrutamento confirmada, não uma vaga individual; início em setembro de 2027. Pode encerrar antecipadamente. Seleciona o escritório e a função."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Turner & Townsend",
+      "programme": "Graduate Programme 2027 — Real Estate Advisory",
+      "kind": "graduate",
+      "area": "Real estate",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000150032329-graduate-programme-2027-real-estate-advisory-uk-wide"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/TurnerTownsend/744000150032329-graduate-programme-2027-real-estate-advisory-uk-wide"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "24-month graduate development programme; UK-wide listing. Confirm the individual location and right-to-work requirements.",
+        "pt": "Programa de desenvolvimento de graduados de 24 meses; anúncio para o Reino Unido. Confirma a localização e os requisitos de autorização de trabalho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Grosvenor",
+      "programme": "Graduate Internship Programme — Summer 2027",
+      "kind": "summer",
+      "area": "Real estate",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.grosvenor.com/careers-4276124c1fa00ffc16d3b57e9d03acc4/careers-4276124c1fa00ffc16d3b57e9d03acc4/graduates-d2178209c9585c1c708dad3b26ab90ec"
+        }
+      ],
+      "sources": [
+        "https://www.grosvenor.com/careers-4276124c1fa00ffc16d3b57e9d03acc4/careers-4276124c1fa00ffc16d3b57e9d03acc4/graduates-d2178209c9585c1c708dad3b26ab90ec"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Opened 5 October 2026; five-week internship in summer 2027, with potential conversion to September 2028 graduate scheme. Not a separate graduate vacancy.",
+        "pt": "Abriu em 5 de outubro de 2026; estágio de cinco semanas no verão de 2027, com possível entrada no programa de graduados em setembro de 2028. Não é uma vaga separada de graduado."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Graduate Rail Project Manager — Summer 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Swindon"
+      ],
+      "applications": [
+        {
+          "location": "Swindon",
+          "url": "https://jobs.smartrecruiters.com/aecom2/744000152629630"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/aecom2/744000152629630"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduate job with summer start, not a summer internship. Relevant 2:1 degree; rolling review.",
+        "pt": "Emprego para graduados com início no verão, não um estágio de verão. Licenciatura relevante com classificação 2:1; análise contínua."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Graduate Construction Project Manager 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://jobs.smartrecruiters.com/AECOM2/744000152205720-graduate-construction-project-manager-birmingham-2027-start-"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/AECOM2/744000152205720-graduate-construction-project-manager-birmingham-2027-start-"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Relevant 2:1 degree; permanent UK work rights required, no sponsorship; rolling review.",
+        "pt": "Licenciatura relevante com classificação 2:1; exige autorização permanente para trabalhar no Reino Unido, sem patrocínio de visto; análise contínua."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Summer Placement Student — Bridge Structures 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://jobs.smartrecruiters.com/AECOM2/744000147503889-summer-placement-student-bridge-structures-birmingham-2027-start-"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/AECOM2/744000147503889-summer-placement-student-bridge-structures-birmingham-2027-start-"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official role details reviewed; confirm course requirements on the application page.",
+        "pt": "Detalhes oficiais da função consultados; confirma os requisitos académicos na página de candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Arup",
+      "programme": "Graduate Civil & Structural Engineer — Energy, Maritime & Civil Infrastructure",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Glasgow"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://arupjobs.referrals.selectminds.com/jobs/graduate-civil-structural-engineer-energy-maritime-civil-infrastructure-35167"
+        }
+      ],
+      "sources": [
+        "https://arupjobs.referrals.selectminds.com/jobs/graduate-civil-structural-engineer-energy-maritime-civil-infrastructure-35167"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-16",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 1 September 2027; relevant MEng/MSc; no UK visa sponsorship for this role. May close early.",
+        "pt": "Início em 1 de setembro de 2027; MEng/MSc relevante; esta função não oferece patrocínio de visto no Reino Unido. Pode encerrar antecipadamente."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Google",
+      "programme": "Software Engineering / Site Reliability Engineering BS/MS Intern 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bsms-intern-2027"
+        }
+      ],
+      "sources": [
+        "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bsms-intern-2027"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Minimum 13 weeks, with May/June/July 2027 start dates.",
+        "pt": "Mínimo de 13 semanas, com início em maio/junho/julho de 2027."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Zopa",
+      "programme": "Graduate Analyst 2027",
+      "kind": "graduate",
+      "area": "Finance / Analytics",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f"
+        }
+      ],
+      "sources": [
+        "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-25",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Deadline 09:00 UK time; graduating in 2025, 2026 or 2027; February or September 2027 starts.",
+        "pt": "Prazo às 09:00, hora do Reino Unido; conclusão do curso em 2025, 2026 ou 2027; início em fevereiro ou setembro de 2027."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Marshall Wace",
+      "programme": "Software / Infrastructure Graduate 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 6 September 2027; 18–24 month rotations; official role states visa sponsorship available.",
+        "pt": "Início em 6 de setembro de 2027; rotações de 18 a 24 meses; o anúncio oficial indica disponibilidade de patrocínio de visto."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "IMC",
+      "programme": "Graduate Deep Learning Researcher",
+      "kind": "graduate",
+      "area": "Technology / Research",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/imc/jobs/4914883101"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/imc/jobs/4914883101"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Current title is Deep Learning Researcher; graduation in 2027, MSc minimum, PhD preferred.",
+        "pt": "O título atual é Deep Learning Researcher; conclusão em 2027, mínimo de mestrado, doutoramento preferencial."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Graduate Infrastructure Engineer 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 6 September 2027. Employer says October 2026 deadline, exact day TBC; no day inferred.",
+        "pt": "Início em 6 de setembro de 2027. O empregador indica prazo em outubro de 2026, com dia por confirmar; não foi atribuído um dia."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Software Developer Summer Internship 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-21",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "21 June–20 August 2027; penultimate-year students; one Maven programme application per cycle.",
+        "pt": "De 21 de junho a 20 de agosto de 2027; estudantes no penúltimo ano; uma candidatura a um programa Maven por ciclo."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Trader Summer Internship 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official live application form reviewed; no deadline recorded in this pass.",
+        "pt": "Formulário oficial de candidatura ativo consultado; prazo não registado nesta pesquisa."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "J.P. Morgan",
+      "programme": "Engineer & Innovate Spring Insight 2027",
+      "kind": "spring",
+      "area": "Technology",
+      "locations": [
+        "Glasgow"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795507"
+        }
+      ],
+      "sources": [
+        "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795507"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduation in 2029; HackerRank assessment; only one Spring Insights application. Deadline 23:55; may close when places fill.",
+        "pt": "Conclusão do curso em 2029; avaliação HackerRank; apenas uma candidatura a Spring Insights. Prazo às 23:55; pode encerrar quando as vagas forem preenchidas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Nomura",
+      "programme": "Discover Nomura Insight Programme 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/1/opp/1478-2027-Discover-Nomura-Programme-Insight-Programme/en-GB"
+        }
+      ],
+      "sources": [
+        "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/1/opp/1478-2027-Discover-Nomura-Programme-Insight-Programme/en-GB"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "programme_confirmed_deadline_unclear",
+      "notes": {
+        "en": "5–6 April 2027; graduation in 2029. Deadline text is inconsistent: hold the deadline for confirmation, do not publish an inferred date.",
+        "pt": "5 e 6 de abril de 2027; conclusão do curso em 2029. O texto do prazo é inconsistente: aguardar confirmação, sem publicar uma data inferida."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Rothschild & Co",
+      "programme": "Women’s Horizon Insight Programme 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-cc1b81b4ca0c/candidate/so/pm/1/pl/2/opp/996-2027-UK-Global-Advisory-Women-s-Horizon-Insight-Programme-London/en-GB"
+        }
+      ],
+      "sources": [
+        "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-cc1b81b4ca0c/candidate/so/pm/1/pl/2/opp/996-2027-UK-Global-Advisory-Women-s-Horizon-Insight-Programme-London/en-GB"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Opened 29 September 2026; four-day spring insight for female university students in any year, including Masters; rolling applications.",
+        "pt": "Abriu em 29 de setembro de 2026; insight de quatro dias na primavera para estudantes universitárias de qualquer ano, incluindo mestrado; candidaturas contínuas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Energy Markets Graduate 2027",
+      "kind": "graduate",
+      "area": "Finance / Energy",
+      "locations": [
+        "Edinburgh"
+      ],
+      "applications": [
+        {
+          "location": "Edinburgh",
+          "url": "https://careers.sse.com/jobs/energy-markets-graduate-edinburgh-the-lothians-scotland-united-kingdom"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Engineering Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Portsmouth",
+        "Aberdeen",
+        "Oban",
+        "Reading",
+        "Aldbrough",
+        "Atwick",
+        "Medway",
+        "Glasgow",
+        "Dundee",
+        "Inverness",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Portsmouth; Aberdeen; Oban; Reading; Aldbrough; Atwick; Medway; Glasgow; Dundee; Inverness; Perth",
+          "url": "https://careers.sse.com/jobs/engineering-graduate-programme-portsmouth-united-kingdom-reading-berkshire-berkshire-aberdeen-aberdeenshire-aberdeenshire-glasgow-renfrewshire-renfrewshire-inverness-highland-scotland-perth-p"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Enterprise Risk & Assurance Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Risk",
+      "locations": [
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/integrated-assurance-graduate-programme-glasgow-renfrewshire-renfrewshire-united-kingdom-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Project Management Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering / Project management",
+      "locations": [
+        "Aberdeen",
+        "Glasgow",
+        "Inverness",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Aberdeen; Glasgow; Inverness; Perth",
+          "url": "https://careers.sse.com/jobs/project-management-graduates-aberdeen-aberdeenshire-aberdeenshire-united-kingdom-glasgow-renfrewshire-renfrewshire-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "IT & OT Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Portsmouth",
+        "Reading",
+        "Havant",
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Portsmouth; Reading; Havant; Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/it-graduates-havant-hampshire-hampshire-united-kingdom-portsmouth-reading-berkshire-berkshire-glasgow-renfrewshire-renfrewshire-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Finance Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/finance-graduate-glasgow-renfrewshire-renfrewshire-united-kingdom-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Operations Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Operations",
+      "locations": [
+        "Glasgow",
+        "Knutsford",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://search.jobs.barclays/job/glasgow/2027-operations-analyst-summer-internship-programme-glasgow/13015/101604347008"
+        },
+        {
+          "location": "Knutsford",
+          "url": "https://search.jobs.barclays/job/knutsford/2027-operations-analyst-summer-internship-programme-knutsford/13015/101604346208"
+        },
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-operations-analyst-summer-internship-programme-london/13015/100411086240"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Operations Analyst Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Operations",
+      "locations": [
+        "Glasgow",
+        "Knutsford"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://search.jobs.barclays/job/glasgow/2027-operations-analyst-graduate-programme-glasgow/13015/101604346976"
+        },
+        {
+          "location": "Knutsford",
+          "url": "https://search.jobs.barclays/job/knutsford/2027-operations-analyst-graduate-programme-knutsford/13015/101604346800"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Sales, Trading & Structuring Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/sales-trading-and-structuring-summer-internship-programme-2027-london/13015/100397233984"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Marketing Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Marketing",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-marketing-analyst-summer-internship-programme-london/13015/100411086608"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Human Resources Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Human resources",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-human-resources-analyst-summer-internship-programme-london/13015/100411085504"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Global Transaction Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/global-transaction-banking-summer-internship-programme-2027-london/13015/100032500816"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Sales, Trading & Structuring Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/sales-trading-and-structuring-graduate-programme-2027-london/13015/100425237424"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Global Transaction Banking Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/global-transaction-banking-graduate-programme-2027-london/13015/100032500192"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Technology Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-technology-analyst-summer-internship-programme-london/13015/100411086752"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/banking-summer-internship-programme-2027-london/13015/99528488160"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Capital Markets Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/capital-markets-summer-internship-programme-2027-london/13015/99528488016"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Customer & Digital Data and Analytics Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Analytics",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-customer-and-digital-data-and-analytics-summer-internship-programme-london/13015/100411086528"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Retail, Business & Customer Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-retail-business-and-customer-banking-summer-internship-programme-london/13015/100411085952"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Evercore",
+      "programme": "Spring Insight 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://jobs.smartrecruiters.com/Wiser/744000153422919-spring-insight-2027-evercore"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/Wiser/744000153422919-spring-insight-2027-evercore"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduating in 2029; all degrees; three-day insight with rolling recruitment.",
+        "pt": "Conclusão em 2029; todos os cursos; insight de três dias com recrutamento contínuo."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Blackstone",
+      "programme": "EMEA Future Leaders Spring Insight 2027",
+      "kind": "spring",
+      "area": "Finance / Real estate",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529"
+        }
+      ],
+      "sources": [
+        "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": "2026-10-16",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Four days in March/April; graduation 2028 or 2029.",
+        "pt": "Quatro dias em março/abril; conclusão do curso em 2028 ou 2029."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [
+          "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr"
+        ],
+        "integration": "refresh_existing_listing"
+      }
+    },
+    {
+      "company": "Citadel Securities",
+      "programme": "Discover Citadel Securities — EMEA 2027",
+      "kind": "spring",
+      "area": "Finance / Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.citadelsecurities.com/careers/programs-and-events/discover-citadel-securities/emea-apply/"
+        }
+      ],
+      "sources": [
+        "https://www.citadelsecurities.com/careers/programs-and-events/discover-citadel-securities/emea-apply/"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": "2027-01-29",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Late March; European-resident undergraduates aged 18+, graduating December 2028–June 2030.",
+        "pt": "Final de março; estudantes de licenciatura residentes na Europa, com pelo menos 18 anos, conclusão entre dezembro de 2028 e junho de 2030."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "GSA Capital",
+      "programme": "Women in Trading & Technology Insight 2027",
+      "kind": "spring",
+      "area": "Technology / Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/embed/job_app?for=gsacapital&token=8518528002"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/embed/job_app?for=gsacapital&token=8518528002"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Spring insight for first-year undergraduate or postgraduate women in STEM; some second-years considered. Rolling review.",
+        "pt": "Insight de primavera para mulheres no primeiro ano de licenciatura ou pós-graduação STEM; alguns casos de segundo ano considerados. Análise contínua."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Deloitte",
+      "programme": "Spring into Deloitte: Advisory 2027",
+      "kind": "spring",
+      "area": "Consulting",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+        }
+      ],
+      "sources": [
+        "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+      ],
+      "checked": "2026-10-06",
+      "opens": "2026-11-09",
+      "closes": null,
+      "status": "upcoming",
+      "notes": {
+        "en": "1–2 April 2027; first year of three-year degree or second of four-year degree; expected 2:1.",
+        "pt": "1 e 2 de abril de 2027; primeiro ano de curso de três anos ou segundo de quatro; previsão de classificação 2:1."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Deloitte",
+      "programme": "Spring into Deloitte: Finance (Inspiring Women) 2027",
+      "kind": "spring",
+      "area": "Finance / Audit",
+      "locations": [
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Manchester",
+          "url": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+        }
+      ],
+      "sources": [
+        "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html"
+      ],
+      "checked": "2026-10-06",
+      "opens": "2026-11-09",
+      "closes": null,
+      "status": "upcoming",
+      "notes": {
+        "en": "30–31 March 2027; same early-university stage and 2:1 requirement.",
+        "pt": "30 e 31 de março de 2027; mesma fase inicial universitária e requisito de classificação 2:1."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "PwC",
+      "programme": "Advancing Social Mobility — Spring 2027",
+      "kind": "spring",
+      "area": "Professional services",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+        }
+      ],
+      "sources": [
+        "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "recruitment_campaign_confirmed",
+      "notes": {
+        "en": "Three-day programme; graduation in 2029; specific socioeconomic eligibility applies.",
+        "pt": "Programa de três dias; conclusão em 2029; aplicam-se critérios socioeconómicos específicos."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "PwC",
+      "programme": "Black Talent in Business — Spring 2027",
+      "kind": "spring",
+      "area": "Professional services",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+        }
+      ],
+      "sources": [
+        "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "recruitment_campaign_confirmed",
+      "notes": {
+        "en": "Three-day programme; graduation in 2029; check targeted eligibility and office availability.",
+        "pt": "Programa de três dias; conclusão em 2029; confirmar elegibilidade específica e escritórios disponíveis."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "PwC",
+      "programme": "Women in Business — Spring 2027",
+      "kind": "spring",
+      "area": "Professional services",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+        }
+      ],
+      "sources": [
+        "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "recruitment_campaign_confirmed",
+      "notes": {
+        "en": "Three-day programme; graduation in 2029; check targeted eligibility and office availability.",
+        "pt": "Programa de três dias; conclusão em 2029; confirmar elegibilidade específica e escritórios disponíveis."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "J.P. Morgan",
+      "programme": "Analyse & Trade Spring Insights 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795361"
+        }
+      ],
+      "sources": [
+        "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795361"
+      ],
+      "checked": "2026-10-06",
+      "opens": "2026-10-01",
+      "closes": "2026-11-01",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Application deadline 23:55; only one Spring Insights application across the employer’s programmes.",
+        "pt": "Prazo às 23:55; apenas uma candidatura entre os programas Spring Insights do empregador."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Commercial Summer Placement 2027",
+      "kind": "summer",
+      "area": "Business & operations",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/commercial-summer-placement-2027/stevenage/R38104"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/commercial-summer-placement-2027/stevenage/R38104"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Computer Vision And Artificial Intelligence Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/computer-vision-and-artificial-intelligence-engineer-summer-placement-2027/bristol/R37483"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/computer-vision-and-artificial-intelligence-engineer-summer-placement-2027/bristol/R37483"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Electronic Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/electronic-engineer-summer-placement-2027/stevenage/R37926"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/electronic-engineer-summer-placement-2027/stevenage/R37926"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Integration Missile Validation Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/integration-missile-validation-engineer-summer-placement-2027/stevenage/R37424"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/integration-missile-validation-engineer-summer-placement-2027/stevenage/R37424"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Complex Warheads Lethality Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/complex-warheads-lethality-engineer-summer-placement-2027/stevenage/R37905"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/complex-warheads-lethality-engineer-summer-placement-2027/stevenage/R37905"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Navigation Electronic Warfare Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage",
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage / Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/navigation-electronic-warfare-engineer-summer-placement-2027/stevenage-bristol/R37997"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/navigation-electronic-warfare-engineer-summer-placement-2027/stevenage-bristol/R37997"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Mechanical And Climatic Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/mechanical-and-climatic-engineer-summer-placement-2027/stevenage/R37368"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/mechanical-and-climatic-engineer-summer-placement-2027/stevenage/R37368"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Project Management Control Agile Summer Placement 2027",
+      "kind": "summer",
+      "area": "Business & operations",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/project-management-control-agile-summer-placement-2027/stevenage/R37795"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/project-management-control-agile-summer-placement-2027/stevenage/R37795"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Software Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/software-engineer-summer-placement-2027/stevenage/R37759"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/software-engineer-summer-placement-2027/stevenage/R37759"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Radio Frequency Systems Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/radio-frequency-systems-engineer-summer-placement-2027/bristol/R38308"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/radio-frequency-systems-engineer-summer-placement-2027/bristol/R38308"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Weapon Systems Algorithms Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/weapon-systems-algorithms-engineer-summer-placement-2027/bristol/R37727"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/weapon-systems-algorithms-engineer-summer-placement-2027/bristol/R37727"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Safety And Reliability Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/safety-and-reliability-engineer-summer-placement-2027/stevenage/R37811"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/safety-and-reliability-engineer-summer-placement-2027/stevenage/R37811"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Missile Architecture Summer Placement Programme 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/missile-architecture-summer-placement-programme-2027/stevenage/R37851"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/missile-architecture-summer-placement-programme-2027/stevenage/R37851"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Systems Engineer Summer Placement 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/systems-engineer-summer-placement-2027/stevenage/R38651"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/systems-engineer-summer-placement-2027/stevenage/R38651"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Computer Vision And Artificial Intelligence Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/computer-vision-and-artificial-intelligence-engineer-graduate-programme-2027/bristol/R37479"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/computer-vision-and-artificial-intelligence-engineer-graduate-programme-2027/bristol/R37479"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Engineering Support Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/engineering-support-graduate-programme-2027/stevenage/R37385"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/engineering-support-graduate-programme-2027/stevenage/R37385"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Electro Optic Seekers Systems Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol",
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Bristol / Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/electro-optic-seekers-systems-engineer-graduate-programme-2027/bristol-stevenage/R37765"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/electro-optic-seekers-systems-engineer-graduate-programme-2027/bristol-stevenage/R37765"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Electromagnetic Compatibility Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/electromagnetic-compatibility-engineer-graduate-programme-2027/bristol/R37674"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/electromagnetic-compatibility-engineer-graduate-programme-2027/bristol/R37674"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Guidance Control And Navigation Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/guidance-control-and-navigation-engineer-graduate-programme-2027/bristol/R37820"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/guidance-control-and-navigation-engineer-graduate-programme-2027/bristol/R37820"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Hardware In The Loop Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/hardware-in-the-loop-engineer-graduate-programme-2027/stevenage/R37400"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/hardware-in-the-loop-engineer-graduate-programme-2027/stevenage/R37400"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Integration Missile Validation Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/integration-missile-validation-engineer-graduate-programme-2027/stevenage/R37422"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/integration-missile-validation-engineer-graduate-programme-2027/stevenage/R37422"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Mechanical Missile Architect Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/mechanical-missile-architect-graduate-programme-2027/stevenage/R37847"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/mechanical-missile-architect-graduate-programme-2027/stevenage/R37847"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Software Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/software-engineer-graduate-programme-2027/bristol/R37737"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/software-engineer-graduate-programme-2027/bristol/R37737"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Weapon Systems Algorithms Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol",
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Bristol / Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/weapon-systems-algorithms-engineer-graduate-programme-2027/bristol-stevenage/R37707"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/weapon-systems-algorithms-engineer-graduate-programme-2027/bristol-stevenage/R37707"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Procurement Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Business & operations",
+      "locations": [
+        "Stevenage",
+        "Bolton"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage / Bolton",
+          "url": "https://www.mbdacareers.co.uk/job/procurement-graduate-programme-2027/stevenage-bolton/R37751"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/procurement-graduate-programme-2027/stevenage-bolton/R37751"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Digital Excellence Technical Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/digital-excellence-technical-graduate-programme-2027/stevenage/R38959"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/digital-excellence-technical-graduate-programme-2027/stevenage/R38959"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Digital Excellence Business Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Business & operations",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/digital-excellence-business-graduate-programme-2027/stevenage/R38960"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/digital-excellence-business-graduate-programme-2027/stevenage/R38960"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Weapon System Equipment Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol",
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Bristol / Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/weapon-system-equipment-engineer-graduate-programme-2027/bristol-stevenage/R37899"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/weapon-system-equipment-engineer-graduate-programme-2027/bristol-stevenage/R37899"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Electronics Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/electronics-engineer-graduate-programme-2027/stevenage/R37817"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/electronics-engineer-graduate-programme-2027/stevenage/R37817"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Calibration And Maintenance Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage",
+        "Bolton"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage / Bolton",
+          "url": "https://www.mbdacareers.co.uk/job/calibration-and-maintenance-engineer-graduate-programme-2027/stevenage-bolton/R39037"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/calibration-and-maintenance-engineer-graduate-programme-2027/stevenage-bolton/R39037"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Systems Design Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Bristol",
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/systems-design-engineer-graduate-programme-2027/bristol/R37833"
+        },
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/systems-design-engineer-graduate-programme-2027/stevenage/R37834"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/systems-design-engineer-graduate-programme-2027/bristol/R37833"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Manufacturing Test Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage",
+        "Bolton"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage / Bolton",
+          "url": "https://www.mbdacareers.co.uk/job/manufacturing-test-engineer-graduate-programme-2027/stevenage-bolton/R39040"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/manufacturing-test-engineer-graduate-programme-2027/stevenage-bolton/R39040"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Simulation And Modelling Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage",
+        "Bristol"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage / Bristol",
+          "url": "https://www.mbdacareers.co.uk/job/simulation-and-modelling-engineer-graduate-programme-2027/stevenage-bristol/R37832"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/simulation-and-modelling-engineer-graduate-programme-2027/stevenage-bristol/R37832"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Product Cyber Security Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Bristol",
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Bristol / Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/product-cyber-security-graduate-programme-2027/bristol-stevenage/R37720"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/product-cyber-security-graduate-programme-2027/bristol-stevenage/R37720"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Finance Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/finance-graduate-programme-2027/stevenage/R37791"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/finance-graduate-programme-2027/stevenage/R37791"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "MBDA",
+      "programme": "Mechanical And Climatic Engineer Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Stevenage"
+      ],
+      "applications": [
+        {
+          "location": "Stevenage",
+          "url": "https://www.mbdacareers.co.uk/job/mechanical-and-climatic-engineer-graduate-programme-2027/stevenage/R37353"
+        }
+      ],
+      "sources": [
+        "https://www.mbdacareers.co.uk/job-search",
+        "https://www.mbdacareers.co.uk/job/mechanical-and-climatic-engineer-graduate-programme-2027/stevenage/R37353"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "2027 listing observed in the official careers index. Individual eligibility, security/nationality requirements, sponsorship and deadline still need role-level review before publication. Location variants grouped together.",
+        "pt": "Listagem de 2027 encontrada no índice oficial de carreiras. A elegibilidade, os requisitos de segurança/nacionalidade, o patrocínio de visto e o prazo precisam de confirmação na vaga antes da publicação. Variantes por localização agrupadas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Jefferies",
+      "programme": "Equity Research Spring Week 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-c56de63c13e0/candidate/so/pm/1/pl/2/opp/1933-2027-Equity-Research-Spring-Week-Programme-London/en-GB"
+        }
+      ],
+      "sources": [
+        "https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-c56de63c13e0/candidate/so/pm/1/pl/2/opp/1933-2027-Equity-Research-Spring-Week-Programme-London/en-GB"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": "2026-12-01",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduating in spring/summer 2029. One application per season. Official deadline takes precedence over third-party dates.",
+        "pt": "Conclusão do curso na primavera/verão de 2029. Uma candidatura por época. O prazo oficial prevalece sobre datas de terceiros."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "Kier",
+      "programme": "Graduate Quantity Surveyor 2027",
+      "kind": "graduate",
+      "area": "Real estate & built environment",
+      "locations": [
+        "Sheffield"
+      ],
+      "applications": [
+        {
+          "location": "Sheffield",
+          "url": "https://jobs.kier.co.uk/jobs/graduate-quantity-surveyor-2027-sheffield-south-yorkshire-united-kingdom"
+        }
+      ],
+      "sources": [
+        "https://jobs.kier.co.uk/jobs/graduate-quantity-surveyor-2027-sheffield-south-yorkshire-united-kingdom"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": "2026-11-06",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "September 2027 start; two-year programme; quantity surveying degree and UK driving licence required. Sponsorship not available.",
+        "pt": "Início em setembro de 2027; programa de dois anos; exige formação em quantity surveying e carta de condução do Reino Unido. Sem patrocínio de visto."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Marshall Wace",
+      "programme": "Technology Internship 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "28 June–3 September 2027; penultimate-year students. One application.",
+        "pt": "28 de junho a 3 de setembro de 2027; estudantes do penúltimo ano. Uma candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Marshall Wace",
+      "programme": "Quantitative Research Internship 2027",
+      "kind": "summer",
+      "area": "Finance & technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "28 June–3 September 2027; penultimate-year STEM master’s/PhD students graduating in 2028.",
+        "pt": "28 de junho a 3 de setembro de 2027; estudantes de mestrado/doutoramento STEM no penúltimo ano, com conclusão em 2028."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Databricks",
+      "programme": "Software Engineering Intern 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
+        }
+      ],
+      "sources": [
+        "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Twelve-week summer internship. Graduation autumn 2027–summer 2028; one application per 30 days.",
+        "pt": "Estágio de verão de doze semanas. Conclusão entre o outono de 2027 e o verão de 2028; uma candidatura por cada 30 dias."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [
+          "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---london-8847738002?gh_jid=8847738002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Tech_2027&gh_src=Trackr"
+        ],
+        "integration": "refresh_existing_listing"
+      }
+    },
+    {
+      "company": "Figma",
+      "programme": "Software Engineer Intern — London Summer 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/figma/jobs/6152695004"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/figma/jobs/6152695004"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Current official ATS listing; confirm individual eligibility and deadline on application. May match an existing tracker row.",
+        "pt": "Vaga no sistema oficial de candidaturas; confirma a elegibilidade e o prazo. Pode corresponder a uma linha já existente no tracker."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [
+          "https://job-boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Tech_2027&gh_src=Trackr"
+        ],
+        "integration": "refresh_existing_listing"
+      }
+    },
+    {
+      "company": "G-Research",
+      "programme": "Summer Research Programme 2027",
+      "kind": "summer",
+      "area": "Finance & technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.gresearch.com/students-graduates/summer-research-programme/"
+        }
+      ],
+      "sources": [
+        "https://www.gresearch.com/students-graduates/summer-research-programme/"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_campaign_accepting_applications",
+      "notes": {
+        "en": "Official 2027 campaign accepting applications across quantitative research, machine learning, NLP and data science. Counted as ONE campaign, not four vacancies. Apply to one stream only.",
+        "pt": "Campanha oficial de 2027 com candidaturas para investigação quantitativa, machine learning, NLP e ciência de dados. Contabilizada como UMA campanha, não quatro vagas. Candidata-te apenas a uma área."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition_or_generic_portal_refinement"
+      }
+    },
+    {
+      "company": "10,000 Interns Foundation",
+      "programme": "10,000 Black Interns — Summer 2027",
+      "kind": "summer",
+      "area": "Multiple sectors",
+      "locations": [
+        "United Kingdom"
+      ],
+      "applications": [
+        {
+          "location": "United Kingdom",
+          "url": "https://10000internsfoundation.com/students-graduates/10000-black-interns/"
+        }
+      ],
+      "sources": [
+        "https://10000internsfoundation.com/students-graduates/10000-black-interns/"
+      ],
+      "checked": "2026-10-06",
+      "opens": null,
+      "closes": null,
+      "status": "employer_campaign_accepting_applications",
+      "notes": {
+        "en": "Paid cross-sector matching programme, not a guaranteed vacancy or job offer. Check Black heritage, student/graduate, age and UK work-right eligibility on the official page.",
+        "pt": "Programa de estágios remunerados em vários setores, sem garantia de colocação ou oferta. Confirma os critérios de ascendência negra, estudos, idade e direito ao trabalho no Reino Unido na página oficial."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "name": "Trackr",
+      "url": "https://www.the-trackr.com/trackers",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Sector trackers and application dates; follow through to the employer. Some features are paid.",
+        "pt": "Trackers por setor e datas de candidatura; confirma no empregador. Algumas funcionalidades são pagas."
+      }
+    },
+    {
+      "name": "Bright Network",
+      "url": "https://www.brightnetwork.co.uk/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Internships, graduate roles, deadline trackers and employer events across sectors.",
+        "pt": "Estágios, vagas para recém-graduados, prazos e eventos de empregadores de vários setores."
+      }
+    },
+    {
+      "name": "Gradcracker",
+      "url": "https://www.gradcracker.com/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "STEM placements and graduate vacancies with employer hubs and events.",
+        "pt": "Estágios e vagas para recém-graduados em STEM, com páginas de empregadores e eventos."
+      }
+    },
+    {
+      "name": "targetjobs",
+      "url": "https://targetjobs.co.uk/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Graduate jobs, internships, employer profiles and application guidance.",
+        "pt": "Vagas para recém-graduados, estágios, perfis de empregadores e apoio à candidatura."
+      }
+    },
+    {
+      "name": "Prospects",
+      "url": "https://www.prospects.ac.uk/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Graduate jobs and career profiles; useful for understanding less familiar occupations.",
+        "pt": "Vagas para recém-graduados e perfis de carreira para conhecer diferentes profissões."
+      }
+    },
+    {
+      "name": "Indeed",
+      "url": "https://uk.indeed.com/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Broad UK vacancy search by role and location. Check dates, duplicates and the original employer listing.",
+        "pt": "Pesquisa abrangente de vagas no Reino Unido por função e localização. Confirma as datas, os duplicados e a vaga original."
+      }
+    },
+    {
+      "name": "Higherin (formerly RateMyPlacement)",
+      "url": "https://higherin.com/",
+      "category": "opportunity_discovery",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Placement and early-career discovery; RateMyPlacement now redirects here.",
+        "pt": "Pesquisa de estágios e oportunidades de início de carreira; o RateMyPlacement redireciona para esta plataforma."
+      }
+    },
+    {
+      "name": "Handshake",
+      "url": "https://joinhandshake.com/students/",
+      "category": "university_careers",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Student opportunities and employer events. Availability and institutional access vary; start with your university careers service.",
+        "pt": "Oportunidades e eventos para estudantes. O acesso e a oferta variam por instituição; consulta o serviço de carreiras da tua universidade."
+      }
+    },
+    {
+      "name": "10,000 Black Interns",
+      "url": "https://10000internsfoundation.com/students-graduates/10000-black-interns/",
+      "category": "eligibility_based_programme",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Paid cross-sector summer programme. Check eligibility, including existing unrestricted full-time UK work rights; participation does not guarantee an offer.",
+        "pt": "Programa de estágios de verão remunerados em vários setores. Confirma os critérios, incluindo direito prévio e sem restrições a trabalho a tempo inteiro no Reino Unido; não garante uma oferta."
+      }
+    },
+    {
+      "name": "Forage",
+      "url": "https://www.theforage.com/",
+      "category": "preparation",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Free self-paced job simulations. These are preparation activities, not paid internships or confirmed vacancies.",
+        "pt": "Simulações profissionais gratuitas ao teu ritmo. São atividades de preparação, não estágios remunerados nem vagas confirmadas."
+      }
+    },
+    {
+      "name": "Springpod",
+      "url": "https://www.springpod.com/",
+      "category": "preparation",
+      "checked": "2026-10-06",
+      "notes": {
+        "en": "Virtual work experience and career exploration. Check each programme’s audience; do not count simulations as spring-week vacancies.",
+        "pt": "Experiências profissionais virtuais e exploração de carreiras. Confirma o público de cada programa; as simulações não são vagas de spring weeks."
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "company": "Jane Street",
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
+      "kind": "spring",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "Notifications page; no confirmed 2027 vacancy.",
+        "pt": "Página de notificações; sem vaga de 2027 confirmada."
+      }
+    },
+    {
+      "company": "Fidelity International",
+      "url": "https://careers.fidelityinternational.com/early-careers-overview/interns-and-insights/spring-insight-programme/",
+      "kind": "spring",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "Evergreen programme information; no confirmed 2027 deadline.",
+        "pt": "Informação geral do programa; sem prazo de 2027 confirmado."
+      }
+    },
+    {
+      "company": "HSBC",
+      "url": "https://www.hsbc.com/careers/students-and-graduates/insight-programmes",
+      "kind": "spring",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "General insight hub; not counted as a specific 2027 vacancy.",
+        "pt": "Página geral de insights; não contabilizada como vaga específica de 2027."
+      }
+    },
+    {
+      "company": "KPMG",
+      "url": "https://www.kpmgcareers.co.uk/undergraduate/black-heritage-talent-insight/",
+      "kind": "spring",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "Registration of interest; eligibility differs from first-year spring weeks.",
+        "pt": "Registo de interesse; os critérios diferem dos spring weeks de primeiro ano."
+      }
+    },
+    {
+      "company": "Wells Fargo",
+      "url": "https://talent.wellsfargojobs.com/flows/spring2027",
+      "kind": "spring",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "Current secondary-source lead; official page blocked verification. Not counted as verified.",
+        "pt": "Referência atual de fonte secundária; a página oficial bloqueou a verificação. Não contabilizada como confirmada."
+      }
+    },
+    {
+      "company": "Shell",
+      "url": "https://www.shell.co.uk/about-us/careers/shell-graduate-programme.html",
+      "kind": "graduate",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "2027 campaign hub; individual vacancies still to map.",
+        "pt": "Página da campanha de 2027; falta mapear as vagas individuais."
+      }
+    },
+    {
+      "company": "United Utilities",
+      "url": "https://www.unitedutilities.com/corporate/careers/graduates/graduate-programmes/",
+      "kind": "graduate",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "2027 campaign found; individual vacancies still to map.",
+        "pt": "Campanha de 2027 encontrada; falta mapear as vagas individuais."
+      }
+    },
+    {
+      "company": "Babcock",
+      "url": "https://careers.babcockinternational.com/emerging-talent/?open=yes&subject=engineering",
+      "kind": "summer_and_graduate",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "Early-careers hub; individual 2027 roles need review.",
+        "pt": "Página de início de carreira; as vagas individuais de 2027 precisam de revisão."
+      }
+    },
+    {
+      "company": "Dyson",
+      "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-kingdom/",
+      "kind": "summer_and_graduate",
+      "checked": "2026-10-06",
+      "counted": false,
+      "notes": {
+        "en": "UK early-careers information, not a confirmed individual 2027 vacancy.",
+        "pt": "Informação de início de carreira no Reino Unido, não uma vaga individual de 2027 confirmada."
+      }
+    }
+  ],
+  "limitations": {
+    "en": "Coverage is not balanced yet and not exhaustive. Not every existing employer was reverified. MBDA, Barclays and SSE index entries require individual role review. Upcoming, campaign, index-only and vacancy evidence remain separate. Figma and Databricks refresh existing rows; other records may refine generic portals. Spring UK coverage is smaller; overseas programmes and evergreen sign-ups are not counted to inflate totals. Deadlines are blank when unconfirmed. See the employer coverage map for carry-over links and review gaps.",
+    "pt": "A cobertura ainda não está equilibrada nem é exaustiva. Nem todos os empregadores existentes foram verificados novamente. As entradas dos índices MBDA, Barclays e SSE exigem revisão da vaga individual. Programas futuros, campanhas, índices e vagas mantêm classificações distintas. Figma e Databricks atualizam linhas existentes; outras entradas podem detalhar portais genéricos. A cobertura de spring no Reino Unido é menor; programas no estrangeiro e registos de interesse não aumentam artificialmente os totais. Prazos não confirmados ficam em branco. O mapa de empregadores distingue links herdados e lacunas de revisão."
+  },
+  "excluded": [
+    {
+      "company": "Monzo",
+      "programme": "Graduate Credit Analyst",
+      "reason": "Live advert redirects to generic jobs board; search result alone is not verification."
+    },
+    {
+      "company": "Maven",
+      "programme": "Graduate Quantitative Researcher (8048825)",
+      "reason": "Live advert redirects to generic jobs board."
+    },
+    {
+      "company": "Savills",
+      "programme": "Summer / Insight",
+      "reason": "Reviewed material concerns closed 2026 summer or older insights; no current 2027 listing confirmed."
+    },
+    {
+      "company": "Alpha FMC",
+      "programme": "Data / AI Engineering Graduate",
+      "reason": "Search result found but individual application page not verified."
+    },
+    {
+      "company": "G-Research",
+      "programme": "Spring into Quant Finance 2027",
+      "url": "https://www.gresearch.com/spring-into-quant-finance/",
+      "reason": {
+        "en": "Held in France; do not count as UK-based spring. Existing raw tracker contains a reference requiring geographic correction.",
+        "pt": "Realizado em França; não contabilizar como spring no Reino Unido. O tracker original contém uma referência que exige correção geográfica."
+      }
+    },
+    {
+      "company": "Virtu",
+      "programme": "Women’s Winternship 2027",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8551689002",
+      "reason": {
+        "en": "Dublin, not UK.",
+        "pt": "Dublin, fora do Reino Unido."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2143 @@
+{
+  "checked": "2026-10-06",
+  "scope": {
+    "en": "Internal research, not published tracker data. Employer-confirmed UK programme listings and campaigns. An index or Apply link does not guarantee that recruitment remains open; recheck before publishing. Different city options are grouped, not counted as separate programmes. Separate EY intakes remain separate. No application was submitted.",
+    "pt": "Pesquisa interna, não publicada no tracker. Programas e campanhas no Reino Unido confirmados em fontes dos empregadores. Um anúncio ou link de candidatura não garante que o recrutamento continue aberto; confirmar antes da publicação. Opções em cidades diferentes estão agrupadas e não contam como programas separados. As diferentes entradas EY permanecem separadas. Não foi submetida nenhuma candidatura."
+  },
+  "summary": {
+    "programmeIntakeGroups": 62,
+    "employers": 18,
+    "types": {
+      "graduate": 43,
+      "summer": 16,
+      "spring": 3
+    },
+    "eyApplicationLocationOptions": 75,
+    "statuses": {
+      "employer_application_link_present": 23,
+      "employer_listing_present": 17,
+      "upcoming": 1,
+      "recruitment_campaign_confirmed": 1,
+      "programme_confirmed_deadline_unclear": 1,
+      "employer_index_listing_present": 19
+    }
+  },
+  "opportunities": [
+    {
+      "company": "EY",
+      "programme": "Actuarial Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Birmingham",
+        "Bristol",
+        "Edinburgh",
+        "Leeds",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Leeds",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=Leeds&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Actuarial&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Analytics & AI - Deal Analytics Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Analytics+%26amp%3B+AI+-+Deal+Analytics&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Audit Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "April 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=London&LAYER5=April+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Audit Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Derry/Londonderry",
+        "Aberdeen",
+        "Birmingham",
+        "Bristol",
+        "Cambridge",
+        "Edinburgh",
+        "Glasgow",
+        "Liverpool",
+        "London",
+        "Luton",
+        "Manchester",
+        "Newcastle",
+        "Reading",
+        "Southampton"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Derry/Londonderry",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Derry%2FLondonderry&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Aberdeen",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Aberdeen&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Cambridge",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Cambridge&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Liverpool",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Liverpool&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Luton",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Luton&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Newcastle",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Newcastle&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Reading",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Reading&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Southampton",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Audit&LAYER4=Southampton&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/",
+        "https://ukstudents.ey.com/page/2/?paged=2"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Business Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Business+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/3/?paged=3"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Capital & Debt Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Capital+%26amp%3B+Debt+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/3/?paged=3"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Decision Modelling Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Decision+Modelling&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/4/?paged=4"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Economic Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Economic+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Extended Assurance Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Extended+Assurance&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Finance Operations Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Finance+Operations&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Financial Restructuring Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Financial+Restructuring&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/5/?paged=5"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Forensic Services Graduate Programme",
+      "kind": "graduate",
+      "area": "Assurance",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Assurance&LAYER3=Forensic+Services&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Global Compliance & Reporting Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Global+Compliance+%26amp%3B+Reporting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Infrastructure Advisory Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Bristol",
+        "Glasgow",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Infrastructure+Advisory&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Operational Research Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operational+Research&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Operations Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Operations&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "People Advisory Services - Integrated Workforce Mobility Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=People+Advisory+Services+-+Integrated+Workforce+Mobility&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/6/?paged=6"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "People Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=People+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Risk Consulting Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Derry/Londonderry",
+        "Edinburgh",
+        "London",
+        "Manchester"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Derry/Londonderry",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Derry%2FLondonderry&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Consulting&LAYER3=Risk+Consulting&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Strategy (Financial Services) Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Strategy+%28Financial+Services%29&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Strategy (Public and Private) Graduate Programme",
+      "kind": "graduate",
+      "area": "EY-Parthenon",
+      "intake": "September 2027",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=EY-Parthenon&LAYER3=Strategy+%28Public+and+Private%29&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/7/?paged=7"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Tax Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "April 2027",
+      "locations": [
+        "Belfast"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Belfast&LAYER5=April+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/8/?paged=8"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "EY",
+      "programme": "Tax Graduate Programme",
+      "kind": "graduate",
+      "area": "Tax",
+      "intake": "September 2027",
+      "locations": [
+        "Belfast",
+        "Aberdeen",
+        "Birmingham",
+        "Bristol",
+        "Edinburgh",
+        "Glasgow",
+        "Leeds",
+        "London",
+        "Manchester",
+        "Reading"
+      ],
+      "applications": [
+        {
+          "location": "Belfast",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Belfast&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Aberdeen",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Aberdeen&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Birmingham",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Birmingham&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Bristol",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Bristol&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Edinburgh",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Edinburgh&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Glasgow",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Glasgow&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Leeds",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Leeds&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "London",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=London&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Manchester",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Manchester&LAYER5=September+2027&cookieCheck=true"
+        },
+        {
+          "location": "Reading",
+          "url": "https://eycareers.ambertrack.global/earlycareers2027/CandidateLogin.aspx?LAYER1=Graduate&LAYER2=Tax&LAYER3=Tax&LAYER4=Reading&LAYER5=September+2027&cookieCheck=true"
+        }
+      ],
+      "sources": [
+        "https://ukstudents.ey.com/page/8/?paged=8"
+      ],
+      "checked": "2026-10-06",
+      "status": "employer_application_link_present",
+      "notes": {
+        "en": "Official UK listing provides an application link. Check the selected city, eligibility and available places before applying.",
+        "pt": "A listagem oficial no Reino Unido apresenta um link de candidatura. Confirma a cidade, a elegibilidade e as vagas disponíveis antes de te candidatares."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "BCG",
+      "programme": "Associate Graduate Programme",
+      "kind": "graduate",
+      "area": "Consulting",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+        }
+      ],
+      "sources": [
+        "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-18",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Applications 9 September–18 October 2026; final-year students or recent graduates with under two years of full-time experience.",
+        "pt": "Candidaturas de 9 de setembro a 18 de outubro de 2026; estudantes finalistas ou recém-graduados com menos de dois anos de experiência a tempo inteiro."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "BCG",
+      "programme": "Summer Internship 2027",
+      "kind": "summer",
+      "area": "Consulting",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+        }
+      ],
+      "sources": [
+        "https://careers.bcg.com/global/en/locations/united-kingdom/associate-jobs"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2027-01-24",
+      "status": "upcoming",
+      "notes": {
+        "en": "Not yet open: applications 1–24 January 2027; eight weeks in July/August.",
+        "pt": "Ainda não abriu: candidaturas de 1 a 24 de janeiro de 2027; oito semanas em julho/agosto."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Accenture",
+      "programme": "Consulting Graduate Programme 2027–2028",
+      "kind": "graduate",
+      "area": "Consulting",
+      "locations": [
+        "Edinburgh"
+      ],
+      "applications": [
+        {
+          "location": "Edinburgh",
+          "url": "https://accenture.pinpointhq.com/postings/33a5dab2-7cc0-464b-8b5c-93c4f2aa595b"
+        }
+      ],
+      "sources": [
+        "https://accenture.pinpointhq.com/postings/33a5dab2-7cc0-464b-8b5c-93c4f2aa595b"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official application page present; deadline not published in the reviewed material.",
+        "pt": "Página oficial de candidatura disponível; prazo não publicado no material consultado."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Savills",
+      "programme": "Graduate Scheme 2027",
+      "kind": "graduate",
+      "area": "Real estate",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://www.savills.co.uk/contact-us/careers/future-talent-careers/graduates/current-graduate-vacancies.aspx"
+        }
+      ],
+      "sources": [
+        "https://www.savills.co.uk/contact-us/careers/future-talent-careers/graduates/current-graduate-vacancies.aspx"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-19",
+      "status": "recruitment_campaign_confirmed",
+      "notes": {
+        "en": "Verified recruitment campaign, not a single vacancy; starts September 2027. May close early. Select the individual office and role.",
+        "pt": "Campanha de recrutamento confirmada, não uma vaga individual; início em setembro de 2027. Pode encerrar antecipadamente. Seleciona o escritório e a função."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Turner & Townsend",
+      "programme": "Graduate Programme 2027 — Real Estate Advisory",
+      "kind": "graduate",
+      "area": "Real estate",
+      "locations": [
+        "UK"
+      ],
+      "applications": [
+        {
+          "location": "UK",
+          "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000150032329-graduate-programme-2027-real-estate-advisory-uk-wide"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/TurnerTownsend/744000150032329-graduate-programme-2027-real-estate-advisory-uk-wide"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "24-month graduate development programme; UK-wide listing. Confirm the individual location and right-to-work requirements.",
+        "pt": "Programa de desenvolvimento de graduados de 24 meses; anúncio para o Reino Unido. Confirma a localização e os requisitos de autorização de trabalho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Grosvenor",
+      "programme": "Graduate Internship Programme — Summer 2027",
+      "kind": "summer",
+      "area": "Real estate",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.grosvenor.com/careers-4276124c1fa00ffc16d3b57e9d03acc4/careers-4276124c1fa00ffc16d3b57e9d03acc4/graduates-d2178209c9585c1c708dad3b26ab90ec"
+        }
+      ],
+      "sources": [
+        "https://www.grosvenor.com/careers-4276124c1fa00ffc16d3b57e9d03acc4/careers-4276124c1fa00ffc16d3b57e9d03acc4/graduates-d2178209c9585c1c708dad3b26ab90ec"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Opened 5 October 2026; five-week internship in summer 2027, with potential conversion to September 2028 graduate scheme. Not a separate graduate vacancy.",
+        "pt": "Abriu em 5 de outubro de 2026; estágio de cinco semanas no verão de 2027, com possível entrada no programa de graduados em setembro de 2028. Não é uma vaga separada de graduado."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Graduate Rail Project Manager — Summer 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Swindon"
+      ],
+      "applications": [
+        {
+          "location": "Swindon",
+          "url": "https://jobs.smartrecruiters.com/aecom2/744000152629630"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/aecom2/744000152629630"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduate job with summer start, not a summer internship. Relevant 2:1 degree; rolling review.",
+        "pt": "Emprego para graduados com início no verão, não um estágio de verão. Licenciatura relevante com classificação 2:1; análise contínua."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Graduate Construction Project Manager 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://jobs.smartrecruiters.com/AECOM2/744000152205720-graduate-construction-project-manager-birmingham-2027-start-"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/AECOM2/744000152205720-graduate-construction-project-manager-birmingham-2027-start-"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Relevant 2:1 degree; permanent UK work rights required, no sponsorship; rolling review.",
+        "pt": "Licenciatura relevante com classificação 2:1; exige autorização permanente para trabalhar no Reino Unido, sem patrocínio de visto; análise contínua."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "AECOM",
+      "programme": "Summer Placement Student — Bridge Structures 2027",
+      "kind": "summer",
+      "area": "Engineering",
+      "locations": [
+        "Birmingham"
+      ],
+      "applications": [
+        {
+          "location": "Birmingham",
+          "url": "https://jobs.smartrecruiters.com/AECOM2/744000147503889-summer-placement-student-bridge-structures-birmingham-2027-start-"
+        }
+      ],
+      "sources": [
+        "https://jobs.smartrecruiters.com/AECOM2/744000147503889-summer-placement-student-bridge-structures-birmingham-2027-start-"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official role details reviewed; confirm course requirements on the application page.",
+        "pt": "Detalhes oficiais da função consultados; confirma os requisitos académicos na página de candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Arup",
+      "programme": "Graduate Civil & Structural Engineer — Energy, Maritime & Civil Infrastructure",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Glasgow"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://arupjobs.referrals.selectminds.com/jobs/graduate-civil-structural-engineer-energy-maritime-civil-infrastructure-35167"
+        }
+      ],
+      "sources": [
+        "https://arupjobs.referrals.selectminds.com/jobs/graduate-civil-structural-engineer-energy-maritime-civil-infrastructure-35167"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-16",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 1 September 2027; relevant MEng/MSc; no UK visa sponsorship for this role. May close early.",
+        "pt": "Início em 1 de setembro de 2027; MEng/MSc relevante; esta função não oferece patrocínio de visto no Reino Unido. Pode encerrar antecipadamente."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Google",
+      "programme": "Software Engineering / Site Reliability Engineering BS/MS Intern 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bsms-intern-2027"
+        }
+      ],
+      "sources": [
+        "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bsms-intern-2027"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Minimum 13 weeks, with May/June/July 2027 start dates.",
+        "pt": "Mínimo de 13 semanas, com início em maio/junho/julho de 2027."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Zopa",
+      "programme": "Graduate Analyst 2027",
+      "kind": "graduate",
+      "area": "Finance / Analytics",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f"
+        }
+      ],
+      "sources": [
+        "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-25",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Deadline 09:00 UK time; graduating in 2025, 2026 or 2027; February or September 2027 starts.",
+        "pt": "Prazo às 09:00, hora do Reino Unido; conclusão do curso em 2025, 2026 ou 2027; início em fevereiro ou setembro de 2027."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Marshall Wace",
+      "programme": "Software / Infrastructure Graduate 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8645263002"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 6 September 2027; 18–24 month rotations; official role states visa sponsorship available.",
+        "pt": "Início em 6 de setembro de 2027; rotações de 18 a 24 meses; o anúncio oficial indica disponibilidade de patrocínio de visto."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "IMC",
+      "programme": "Graduate Deep Learning Researcher",
+      "kind": "graduate",
+      "area": "Technology / Research",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/imc/jobs/4914883101"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/imc/jobs/4914883101"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Current title is Deep Learning Researcher; graduation in 2027, MSc minimum, PhD preferred.",
+        "pt": "O título atual é Deep Learning Researcher; conclusão em 2027, mínimo de mestrado, doutoramento preferencial."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Graduate Infrastructure Engineer 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8105020"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Starts 6 September 2027. Employer says October 2026 deadline, exact day TBC; no day inferred.",
+        "pt": "Início em 6 de setembro de 2027. O empregador indica prazo em outubro de 2026, com dia por confirmar; não foi atribuído um dia."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Software Developer Summer Internship 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-10-21",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "21 June–20 August 2027; penultimate-year students; one Maven programme application per cycle.",
+        "pt": "De 21 de junho a 20 de agosto de 2027; estudantes no penúltimo ano; uma candidatura a um programa Maven por ciclo."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Maven",
+      "programme": "Trader Summer Internship 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970"
+        }
+      ],
+      "sources": [
+        "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Official live application form reviewed; no deadline recorded in this pass.",
+        "pt": "Formulário oficial de candidatura ativo consultado; prazo não registado nesta pesquisa."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": false,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "J.P. Morgan",
+      "programme": "Engineer & Innovate Spring Insight 2027",
+      "kind": "spring",
+      "area": "Technology",
+      "locations": [
+        "Glasgow"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795507"
+        }
+      ],
+      "sources": [
+        "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795507"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Graduation in 2029; HackerRank assessment; only one Spring Insights application. Deadline 23:55; may close when places fill.",
+        "pt": "Conclusão do curso em 2029; avaliação HackerRank; apenas uma candidatura a Spring Insights. Prazo às 23:55; pode encerrar quando as vagas forem preenchidas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Nomura",
+      "programme": "Discover Nomura Insight Programme 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/1/opp/1478-2027-Discover-Nomura-Programme-Insight-Programme/en-GB"
+        }
+      ],
+      "sources": [
+        "https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/1/opp/1478-2027-Discover-Nomura-Programme-Insight-Programme/en-GB"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "programme_confirmed_deadline_unclear",
+      "notes": {
+        "en": "5–6 April 2027; graduation in 2029. Deadline text is inconsistent: hold the deadline for confirmation, do not publish an inferred date.",
+        "pt": "5 e 6 de abril de 2027; conclusão do curso em 2029. O texto do prazo é inconsistente: aguardar confirmação, sem publicar uma data inferida."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Rothschild & Co",
+      "programme": "Women’s Horizon Insight Programme 2027",
+      "kind": "spring",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-cc1b81b4ca0c/candidate/so/pm/1/pl/2/opp/996-2027-UK-Global-Advisory-Women-s-Horizon-Insight-Programme-London/en-GB"
+        }
+      ],
+      "sources": [
+        "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-cc1b81b4ca0c/candidate/so/pm/1/pl/2/opp/996-2027-UK-Global-Advisory-Women-s-Horizon-Insight-Programme-London/en-GB"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_listing_present",
+      "notes": {
+        "en": "Opened 29 September 2026; four-day spring insight for female university students in any year, including Masters; rolling applications.",
+        "pt": "Abriu em 29 de setembro de 2026; insight de quatro dias na primavera para estudantes universitárias de qualquer ano, incluindo mestrado; candidaturas contínuas."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Energy Markets Graduate 2027",
+      "kind": "graduate",
+      "area": "Finance / Energy",
+      "locations": [
+        "Edinburgh"
+      ],
+      "applications": [
+        {
+          "location": "Edinburgh",
+          "url": "https://careers.sse.com/jobs/energy-markets-graduate-edinburgh-the-lothians-scotland-united-kingdom"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Engineering Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering",
+      "locations": [
+        "Portsmouth",
+        "Aberdeen",
+        "Oban",
+        "Reading",
+        "Aldbrough",
+        "Atwick",
+        "Medway",
+        "Glasgow",
+        "Dundee",
+        "Inverness",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Portsmouth; Aberdeen; Oban; Reading; Aldbrough; Atwick; Medway; Glasgow; Dundee; Inverness; Perth",
+          "url": "https://careers.sse.com/jobs/engineering-graduate-programme-portsmouth-united-kingdom-reading-berkshire-berkshire-aberdeen-aberdeenshire-aberdeenshire-glasgow-renfrewshire-renfrewshire-inverness-highland-scotland-perth-p"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Enterprise Risk & Assurance Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Risk",
+      "locations": [
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/integrated-assurance-graduate-programme-glasgow-renfrewshire-renfrewshire-united-kingdom-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Project Management Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Engineering / Project management",
+      "locations": [
+        "Aberdeen",
+        "Glasgow",
+        "Inverness",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Aberdeen; Glasgow; Inverness; Perth",
+          "url": "https://careers.sse.com/jobs/project-management-graduates-aberdeen-aberdeenshire-aberdeenshire-united-kingdom-glasgow-renfrewshire-renfrewshire-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "IT & OT Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Technology",
+      "locations": [
+        "Portsmouth",
+        "Reading",
+        "Havant",
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Portsmouth; Reading; Havant; Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/it-graduates-havant-hampshire-hampshire-united-kingdom-portsmouth-reading-berkshire-berkshire-glasgow-renfrewshire-renfrewshire-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "SSE",
+      "programme": "Finance Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "Glasgow",
+        "Perth"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow; Perth",
+          "url": "https://careers.sse.com/jobs/finance-graduate-glasgow-renfrewshire-renfrewshire-united-kingdom-perth-perthshire-scotland"
+        }
+      ],
+      "sources": [
+        "https://careers.sse.com/jobs/search?query=GRAD27"
+      ],
+      "checked": "2026-10-06",
+      "closes": "2026-11-01",
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Confirmed on the employer’s graduate search listings, including locations and closing date (23:55 GMT). Individual eligibility must be checked before applying.",
+        "pt": "Confirmado na pesquisa oficial de vagas para graduados, incluindo localidades e prazo (23:55 GMT). É necessário confirmar a elegibilidade individual antes da candidatura."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Operations Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Operations",
+      "locations": [
+        "Glasgow",
+        "Knutsford",
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://search.jobs.barclays/job/glasgow/2027-operations-analyst-summer-internship-programme-glasgow/13015/101604347008"
+        },
+        {
+          "location": "Knutsford",
+          "url": "https://search.jobs.barclays/job/knutsford/2027-operations-analyst-summer-internship-programme-knutsford/13015/101604346208"
+        },
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-operations-analyst-summer-internship-programme-london/13015/100411086240"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Operations Analyst Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Operations",
+      "locations": [
+        "Glasgow",
+        "Knutsford"
+      ],
+      "applications": [
+        {
+          "location": "Glasgow",
+          "url": "https://search.jobs.barclays/job/glasgow/2027-operations-analyst-graduate-programme-glasgow/13015/101604346976"
+        },
+        {
+          "location": "Knutsford",
+          "url": "https://search.jobs.barclays/job/knutsford/2027-operations-analyst-graduate-programme-knutsford/13015/101604346800"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Sales, Trading & Structuring Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/sales-trading-and-structuring-summer-internship-programme-2027-london/13015/100397233984"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Marketing Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Marketing",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-marketing-analyst-summer-internship-programme-london/13015/100411086608"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Human Resources Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Human resources",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-human-resources-analyst-summer-internship-programme-london/13015/100411085504"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Global Transaction Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/global-transaction-banking-summer-internship-programme-2027-london/13015/100032500816"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Sales, Trading & Structuring Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/sales-trading-and-structuring-graduate-programme-2027-london/13015/100425237424"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Global Transaction Banking Graduate Programme 2027",
+      "kind": "graduate",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/global-transaction-banking-graduate-programme-2027-london/13015/100032500192"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "candidate_addition"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Technology Analyst Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Technology",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-technology-analyst-summer-internship-programme-london/13015/100411086752"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/banking-summer-internship-programme-2027-london/13015/99528488160"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Capital Markets Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/capital-markets-summer-internship-programme-2027-london/13015/99528488016"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Customer & Digital Data and Analytics Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Analytics",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-customer-and-digital-data-and-analytics-summer-internship-programme-london/13015/100411086528"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    },
+    {
+      "company": "Barclays",
+      "programme": "Retail, Business & Customer Banking Summer Internship Programme 2027",
+      "kind": "summer",
+      "area": "Finance",
+      "locations": [
+        "London"
+      ],
+      "applications": [
+        {
+          "location": "London",
+          "url": "https://search.jobs.barclays/job/london/2027-retail-business-and-customer-banking-summer-internship-programme-london/13015/100411085952"
+        }
+      ],
+      "sources": [
+        "https://search.jobs.barclays/search-jobs/place/22545/1/1"
+      ],
+      "checked": "2026-10-06",
+      "closes": null,
+      "status": "employer_index_listing_present",
+      "notes": {
+        "en": "Programme and location confirmed on the official employer job index. A generic Barclays summer portal already exists in the tracker: use specific roles to refine it, not duplicate the umbrella entry. No closing date inferred.",
+        "pt": "Programa e localização confirmados no índice oficial de vagas. Já existe um portal genérico de estágios Barclays no tracker: usar as funções específicas para o detalhar, sem duplicar a entrada geral. Não foi inferida uma data de fecho."
+      },
+      "existingTracker": {
+        "employerAlreadyListed": true,
+        "matchingListingUrls": [],
+        "integration": "refine_existing_generic_portal"
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "company": "Monzo",
+      "programme": "Graduate Credit Analyst",
+      "reason": "Live advert redirects to generic jobs board; search result alone is not verification."
+    },
+    {
+      "company": "Maven",
+      "programme": "Graduate Quantitative Researcher (8048825)",
+      "reason": "Live advert redirects to generic jobs board."
+    },
+    {
+      "company": "Savills",
+      "programme": "Summer / Insight",
+      "reason": "Reviewed material concerns closed 2026 summer or older insights; no current 2027 listing confirmed."
+    },
+    {
+      "company": "Alpha FMC",
+      "programme": "Data / AI Engineering Graduate",
+      "reason": "Search result found but individual application page not verified."
+    }
+  ],
+  "limitations": {
+    "en": "Not exhaustive. Deadlines left blank where not explicitly confirmed. Barclays and SSE index verification is distinguished from individual-page review. Nomura deadline is withheld because its wording is inconsistent. BCG summer applications are upcoming, not open. Several summer entries refine generic portals already in the tracker, so 62 groups must not be advertised as 62 net-new vacancies.",
+    "pt": "Não exaustivo. Prazos em branco quando não confirmados explicitamente. A verificação no índice Barclays e SSE distingue-se da revisão de páginas individuais. O prazo Nomura foi omitido devido a texto inconsistente. As candidaturas de verão BCG ainda não abriram. Várias entradas de verão detalham portais genéricos existentes, pelo que os 62 grupos não devem ser anunciados como 62 novas vagas."
+  }
+}

@@ -7,12 +7,22 @@ import ts from 'typescript';
 const data = JSON.parse(fs.readFileSync(new URL('../src/content/tracker-data.json', import.meta.url), 'utf8'));
 const business = JSON.parse(fs.readFileSync(new URL('../src/content/tracker-business.json', import.meta.url), 'utf8'));
 const spring = JSON.parse(fs.readFileSync(new URL('../src/content/tracker-spring.json', import.meta.url), 'utf8'));
+const researched = JSON.parse(fs.readFileSync(new URL('../src/content/tracker-researched.json', import.meta.url), 'utf8'));
 const source = fs.readFileSync(new URL('../src/utils/tracker.ts', import.meta.url), 'utf8');
 const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022, esModuleInterop: true } }).outputText;
 const module = { exports: {} };
-vm.runInNewContext(compiled, { module, exports: module.exports, require: path => path.includes('tracker-spring') ? spring : path.includes('tracker-business') ? business : data, Intl, Date, URL });
+vm.runInNewContext(compiled, { module, exports: module.exports, require: path => path.includes('tracker-researched') ? researched : path.includes('tracker-spring') ? spring : path.includes('tracker-business') ? business : data, Intl, Date, URL });
 const { availability, isoDate, safeExternal, dateLabel, isStale, businessOpportunities, programmeKind, locationOptions } = module.exports;
 const row = { ...data[0], opens: 'Not published', closes: 'Not published', checked: '2026-10-04', audit: { state: 'reachable' } };
+test('date colours distinguish expired, same-day, future and unknown windows', () => {
+ const state=module.exports.dateState;
+ assert.equal(state({...row,opens:'2026-09-01',closes:'2026-10-05'},'2026-10-06'),'closed');
+ assert.equal(state({...row,opens:'2026-09-01',closes:'2026-10-06'},'2026-10-06'),'today');
+ assert.equal(state({...row,opens:'2026-09-01',closes:'2026-10-07'},'2026-10-06'),'window');
+ assert.equal(state({...row,opens:'2026-11-01'},'2026-10-06'),'upcoming');
+ assert.equal(state(row,'2026-10-06'),'unknown');
+ assert.equal(state({...row,opens:'2026-09-01',rolling:true},'2026-10-06'),'unknown');
+});
 
 test('source collection preserves 153 unique records across 60 employers', () => {
   assert.equal(data.length, 153);
@@ -115,7 +125,7 @@ test('internal CSVs are not deployed as public assets',()=>{
 test('unified tracker deduplicates programmes, not shared employer portals',()=>{
  const {publicOpportunities:rows,publicFinanceOpportunities:f,publicBusinessOpportunities:b,opportunityKey:key}=module.exports;
  assert.equal(new Set(rows.map(key)).size,rows.length);
- assert.equal(rows.length,new Set([...f,...b].map(key)).size);
+ assert.equal(rows.length,new Set([...f,...b,...researched].map(key)).size);
  assert.equal(new Set(rows.map(r=>r.id)).size,rows.length);
  assert.equal(rows.filter(r=>r.company==='Shell').length,1);
  assert.equal(rows.filter(r=>r.company==='Deloitte').length,3);
@@ -142,4 +152,19 @@ test('employer grouping preserves every programme and respects filtered results'
  assert.ok(groups.find(g=>g.company==='Deutsche Bank').rows.length>4);
  const spring=group(rows.filter(r=>programmeKind(r)==='spring'));
  assert.equal(spring.find(g=>g.company==='Deutsche Bank').rows.length,4);
+});
+test('researched additions expose graduates and priority cities without importing pending leads',()=>{
+ const m=module.exports;
+ assert.equal(researched.length,54);
+ assert.equal(researched.filter(r=>programmeKind(r)==='graduate').length,37);
+ // Scale AI matches an existing programme and is merged, not counted twice.
+ assert.equal(m.publicOpportunities.length,231);
+ for(const r of researched){
+  assert.ok(r.eligibilityPt);assert.ok(safeExternal(r.url));
+  assert.ok(!['closed','soon','upcoming','review'].includes(availability(r,'2026-10-06')));
+  assert.ok(['employer_listing_present','employer_application_link_present','accepting_applications_observed'].includes(r.audit.evidence));
+ }
+ for(const city of ['London','Bristol','Bath','Brighton','Southampton'])assert.ok(researched.some(r=>m.publicLocationOptions(r).includes(city)),city);
+ assert.equal(researched.filter(r=>r.company==='EY'&&r.programme.startsWith('Audit')).length,2);
+ assert.equal(researched.some(r=>['Figma','Databricks','Blackstone'].includes(r.company)),false);
 });

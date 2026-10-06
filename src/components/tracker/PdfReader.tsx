@@ -7,7 +7,7 @@ import { cvTitles } from '../../content/tracker-guide'
 
 pdfjs.GlobalWorkerOptions.workerSrc = new URL('pdfjs-dist/build/pdf.worker.min.mjs', import.meta.url).toString()
 
-export default function PdfReader({ file }: { file: string }) {
+export default function PdfReader({ file, title = "CV 101", template = false }: { file: string; title?: string; template?: boolean }) {
   const { lang } = useLang()
   const t = (en: string, pt: string) => lang === 'pt' ? pt : en
   const viewport = useRef<HTMLDivElement>(null)
@@ -52,14 +52,14 @@ export default function PdfReader({ file }: { file: string }) {
       </div>
       <a href={file} target="_blank" rel="noopener noreferrer">{t('Open PDF', 'Abrir PDF')} ↗</a>
     </div>
-    <p className="tk-reader-hint">{t('Scroll inside the document to read all seven pages.', 'Desliza dentro do documento para ler as sete páginas.')}</p>
-    <div className="tk-reader-viewport" ref={viewport} onScroll={trackPage} role="region" tabIndex={0} aria-label={t('CV 101, scrollable PDF document', 'CV 101, documento PDF com deslocamento')}>
+    <p className="tk-reader-hint">{template ? t('Scroll inside the document. Download the Word file to edit your own copy.', 'Desliza dentro do documento. Descarrega o ficheiro Word para editar a tua cópia.') : t('Scroll inside the document to read all seven pages.', 'Desliza dentro do documento para ler as sete páginas.')}</p>
+    <div className="tk-reader-viewport" ref={viewport} onScroll={trackPage} role="region" tabIndex={0} aria-label={title + t(', scrollable PDF document', ', documento PDF com deslocamento')}>
       <Document file={file} onLoadSuccess={({numPages}) => setPages(numPages)}
         loading={<p role="status">{t('Loading PDF…', 'A carregar o PDF…')}</p>}
         error={<p role="alert">{t('The document could not load.', 'Não foi possível carregar o documento.')} <a href={file} target="_blank" rel="noopener noreferrer">{t('Open the PDF directly', 'Abrir o PDF diretamente')} ↗</a></p>}>
         {Array.from({length:pages}, (_, i) => <figure className="tk-reader-page" data-pdf-page={i+1} key={i} style={{width:Math.min(width,800)*zoom}}>
           <Page pageNumber={i+1} width={Math.min(width,800)*zoom} devicePixelRatio={Math.min(window.devicePixelRatio || 1, 2)} renderAnnotationLayer renderTextLayer loading={<p>{t('Loading page', 'A carregar página')} {i+1}…</p>}/>
-          <figcaption>{i+1} / {pages} · {cvTitles[i] || 'CV 101'}</figcaption>
+          <figcaption>{i+1} / {pages} · {template ? title : cvTitles[i] || title}</figcaption>
         </figure>)}
       </Document>
     </div>

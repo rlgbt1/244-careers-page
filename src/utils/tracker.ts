@@ -2,6 +2,7 @@ import data from '../content/tracker-data.json'
 
 import springData from '../content/tracker-spring.json'
 import businessData from '../content/tracker-business.json'
+import researchedData from '../content/tracker-researched.json'
 
 export interface Opportunity {
   id: string; company: string; programme: string; group: string; type: string; sector: string;
@@ -11,6 +12,7 @@ export interface Opportunity {
   audit: { state: string; checked: string; http?: number | null; [key: string]: unknown };
 }
 export const businessOpportunities: Opportunity[] = businessData
+export const researchedOpportunities: Opportunity[] = researchedData
 export function programmeKind(row: Opportunity): 'summer' | 'spring' | 'graduate' | 'other' {
   if (/other internship/i.test(row.type)) return 'other'
   if (/spring|insight/i.test(row.type)) return 'spring'
@@ -47,6 +49,15 @@ export function availability(row: Opportunity, today = londonToday()): Availabil
 export function isStale(row: Opportunity, today = londonToday()) {
   return Date.parse(today) - Date.parse(row.checked) > 7 * 86400000
 }
+/** Colours describe published dates, not a live confirmation from the employer. */
+export function dateState(row: Opportunity, today = londonToday()): 'closed' | 'today' | 'upcoming' | 'window' | 'unknown' {
+  const closing = isoDate(row.closes), opening = isoDate(row.opens)
+  if (closing && closing < today) return 'closed'
+  if (opening && opening > today) return 'upcoming'
+  if (closing === today) return 'today'
+  if (opening && opening <= today && closing && closing > today) return 'window'
+  return 'unknown'
+}
 export function dateLabel(value: string, lang: 'en' | 'pt') {
   const date = isoDate(value)
   return date ? new Intl.DateTimeFormat(lang === 'pt' ? 'pt-PT' : 'en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${date}T12:00:00Z`)) : lang === 'pt' ? 'Não publicado' : 'Not published'
@@ -66,6 +77,8 @@ const ukPlaces = new Set(['London','Edinburgh','Bristol','Birmingham','Mancheste
 export function publicLocationOptions(row: Opportunity) {
  return locationOptions(row).filter(place => ukPlaces.has(place))
 }
+// Named UK locations confirmed in the employer-sourced additions.
+for (const place of ['Bath','Brighton','Southampton','Belfast','Derry','Aberdeen','Cambridge','Liverpool','Luton','Newcastle','Reading','Swindon','Sheffield','Nottingham']) ukPlaces.add(place)
 
 /** A shared programme can appear in both research sources. Match by employer and
  * programme, never URL alone: several distinct roles share a search portal. */
@@ -88,7 +101,7 @@ export function mergeOpportunities(rows: Opportunity[]): Opportunity[] {
  }
  return [...merged.values()]
 }
-export const publicOpportunities = mergeOpportunities([...publicFinanceOpportunities, ...publicBusinessOpportunities])
+export const publicOpportunities = mergeOpportunities([...publicFinanceOpportunities, ...publicBusinessOpportunities, ...researchedOpportunities.filter(isPublicOpportunity)])
 
 export const opportunityAreas = [
  {id:'finance', en:'Finance', pt:'Finanças'},

@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom'
 import {useLang} from '../context/LanguageContext'
 import {asset} from '../utils/asset'
 import {employers} from '../content/tracker-employers'
+import RecruitmentCalendar from '../components/tracker/RecruitmentCalendar'
 import UkFlag from '../components/tracker/UkFlag'
 export default function HomePage(){
  const {lang}=useLang(),l=lang==='pt'?1:0,t=(en:string,pt:string)=>l?pt:en
@@ -24,6 +25,7 @@ export default function HomePage(){
 
 
  <section className="careers-destinations tk-section"><div className="tk-wrap"><p className="tk-eyebrow">244 CAREERS</p><h2>{t('What are you looking for?','O que procuras?')}</h2><div className="careers-destination-grid">{destinations.map(([to,title,desc,num])=><Link className="careers-destination" key={to} to={to}><span>{num} <b aria-hidden="true">↗</b></span><h3>{title}</h3><p>{desc}</p></Link>)}</div><Link className="careers-resource-link" to="/resources">{t('Explore preparation resources, useful websites and FAQs','Explora recursos de preparação, websites úteis e perguntas frequentes')} ↗</Link></div></section>
+     <RecruitmentCalendar/>
      <section className="tk-why tk-section"><div className="tk-wrap tk-why-grid"><div><p className="tk-eyebrow">{t('WHY WE BUILT THIS', 'PORQUE CRIÁMOS ESTA PÁGINA')}</p><h2>{t('UK career information, in one place.', 'O panorama de oportunidades no Reino Unido, num só lugar.')}</h2></div><div><p>{t('We created this page to bring information about the range of opportunities in the United Kingdom together, for university students and beyond. Here you can explore career options, understand recruitment processes and find preparation resources.', 'Criámos esta página para centralizar a informação sobre o panorama de oportunidades no Reino Unido, para estudantes universitários e não só. Aqui podes explorar percursos profissionais, compreender os processos de recrutamento e encontrar recursos de preparação.')}</p><p>{t('The tracker brings together opportunities in finance, consulting, real estate, technology and engineering, among other fields. Filter by area to find the roles that interest you. The guide explains programme types and recruitment stages so you can decide where to start.', 'O tracker reúne oportunidades em finanças, consultoria, imobiliário, tecnologia e engenharia, entre outras áreas. Filtra por área para encontrares as funções que te interessam. O guia explica os tipos de programa e as etapas de recrutamento para te ajudar a decidir por onde começar.')}</p></div></div></section>
 
  </div>

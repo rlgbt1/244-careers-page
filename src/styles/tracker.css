@@ -527,6 +527,11 @@
 .tk-sheet a{color:#315b83;text-decoration:none}
 .tk-sheet a:hover{text-decoration:underline;text-underline-offset:3px}
 .tk-sheet td.tk-date-cell{background:#e0ecd7;color:#29442c}
+.tk-sheet td.tk-date-closed{background:#f7d9d5;color:#76271f}
+.tk-sheet td.tk-date-today{background:#fff0c2;color:#674608}
+.tk-sheet td.tk-date-upcoming{background:#edf0f4;color:#435164}
+.tk-sheet td.tk-date-unknown{background:transparent;color:inherit}
+.tk-date-explanation{display:block;max-width:180px;font-size:11px;line-height:1.4;margin-top:4px;color:#46564c;white-space:normal}
 .tk-sheet .tk-row-number{min-width:34px;width:34px;text-align:center;color:#4c6153;background:#e9eeea;font-size:11px}
 .tk-sheet thead .tk-row-number{color:#d1dfd5;background:#1c3b2b}
 .tk-sheet-status{white-space:nowrap;font-size:11px;color:#4c6555}

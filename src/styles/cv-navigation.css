@@ -1,0 +1,15 @@
+.careers-cv-nav{position:relative}
+.careers-cv-toggle{display:flex;align-items:center;gap:6px;min-height:44px;font:inherit;font-size:13px;color:#3d5041;background:transparent;border:0;cursor:pointer;padding:0}
+.careers-cv-toggle.is-active{text-decoration:underline;text-underline-offset:7px;color:#1c3320}
+.careers-cv-toggle svg{transition:transform .18s}
+.careers-cv-toggle[aria-expanded=true] svg{transform:rotate(180deg)}
+.careers-nav-content .careers-cv-links{position:absolute;top:100%;left:-16px;min-width:172px;display:block;padding:8px;background:#faf8f3;border:1px solid #d1d9ce;border-radius:8px;box-shadow:0 12px 24px #1c332018}
+.careers-nav-content .careers-cv-links[hidden]{display:none}
+.careers-cv-links a{padding:10px 12px;border-radius:4px;white-space:nowrap}
+.careers-cv-links a:hover{background:#eaf2ec}
+.careers-cv-nav :focus-visible{outline:2px solid #437a50;outline-offset:3px}
+@media(max-width:960px){
+.careers-cv-toggle{font-size:16px;width:100%;justify-content:space-between}
+.careers-nav-content .careers-cv-links{position:static;box-shadow:none;margin:4px 0 8px;padding:4px 8px;border-radius:4px;border-width:0 0 0 2px}
+}
+@media(prefers-reduced-motion:reduce){.careers-cv-toggle svg{transition:none}}

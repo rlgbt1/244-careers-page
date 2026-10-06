@@ -4,6 +4,7 @@ import { useLang } from '../../context/LanguageContext'
 import { publicOpportunities, publicLocationOptions, programmeKind, availability, londonToday, isoDate, opportunityAreas, areasForOpportunity, groupByEmployer } from '../../utils/tracker'
 import OpportunitySheet from './OpportunitySheet'
 import AreaFilter from './AreaFilter'
+import { useLondonToday } from '../../hooks/useLondonToday'
 
 export default function TrackerDirectory() {
  const {lang}=useLang();const t=(en:string,pt:string)=>lang==='pt'?pt:en
@@ -61,21 +62,22 @@ export default function TrackerDirectory() {
  },[expanded])
  const area=opportunityAreas.some(a=>a.id===params.get('area'))?params.get('area')!:'all'
  const [query,setQuery]=useState(''),[kind,setKind]=useState('all'),[city,setCity]=useState('all'),[state,setState]=useState('all'),[cover,setCover]=useState('all'),[sort,setSort]=useState('company'),[limit,setLimit]=useState(30)
- const today=londonToday()
+ const today=useLondonToday()
  const kinds={summer:t('Summer internships','Estágios de verão'),spring:t('Spring / Insight','Spring / Insight'),other:t('Other internships','Outros estágios'),graduate:t('Graduate programmes','Programas de graduados')}
  const stateLabels={listed:t('See employer','Ver empregador'),closed:t('Closed','Encerrado'),soon:t('Opening soon','Abre em breve'),upcoming:t('Opening later','Abertura futura'),review:''}
  const dataset=useMemo(()=>publicOpportunities.filter(r=>area==='all'||areasForOpportunity(r).some(a=>a===area)),[area])
- const locations=[...new Set(dataset.flatMap(publicLocationOptions))].sort()
- const types=[...new Set(dataset.map(programmeKind))]
- const states=[...new Set(dataset.map(r=>availability(r,today)))].filter(s=>s!=='review')
- const covers=[...new Set(dataset.map(r=>r.coverLetter))].filter(s=>['Required','Not required','Optional'].includes(s))
+ // Keep options stable across areas so an active selection never disappears.
+ const locations=[...new Set(publicOpportunities.flatMap(publicLocationOptions))].sort()
+ const types=[...new Set(publicOpportunities.map(programmeKind))]
+ const states=[...new Set(publicOpportunities.map(r=>availability(r,today)))].filter(s=>s!=='review')
+ const covers=[...new Set(publicOpportunities.map(r=>r.coverLetter))].filter(s=>['Required','Not required','Optional'].includes(s))
  const results=useMemo(()=>dataset.filter(r=>(!query||[r.company,r.programme,r.sector,r.location].join(' ').toLowerCase().includes(query.trim().toLowerCase()))&&(kind==='all'||programmeKind(r)===kind)&&(city==='all'||publicLocationOptions(r).includes(city))&&(state==='all'||availability(r,today)===state)&&(cover==='all'||r.coverLetter===cover)).sort((a,b)=>sort==='deadline'?(isoDate(a.closes)||'9999').localeCompare(isoDate(b.closes)||'9999')||a.company.localeCompare(b.company):a.company.localeCompare(b.company)||a.programme.localeCompare(b.programme)),[dataset,query,kind,city,state,cover,sort,today])
  const groups=groupByEmployer(results)
  const visible=groups.slice(0,limit).flatMap(g=>g.rows)
  function reset(){setParams(params.get('lang')?{lang:params.get('lang')!}:{},{replace:true});setQuery('');setKind('all');setCity('all');setState('all');setCover('all');setSort('company');setLimit(30)}
  function changeArea(value:string){
   const next=new URLSearchParams(params);if(value==='all')next.delete('area');else next.set('area',value);setParams(next)
-  setKind('all');setCity('all');setState('all');setCover('all');setLimit(30)
+  setLimit(30)
  }
  return <section className="tk-directory tk-sheet-directory" id="opportunities" aria-label={t('UK opportunities tracker','Tracker de oportunidades no Reino Unido')}><div className="tk-wrap">
  <AreaFilter value={area} onChange={changeArea}/>
